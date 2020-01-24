@@ -25,6 +25,11 @@ As a result, it's mostly designed for a [Video Browser](http://omega.gg/about/Vi
 - Specify a backend to retrieve video subtitles (like OpenSubtitles).
 - Specify a backend to retrieve video covers (like TMDb).
 
+## Implementation
+
+VBML is currently implemented as a part of [Sky kit](http://omega.gg/Sky) for the MotionBox project.<br>
+You can take a look at the WBackendUniversal [source code](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.cpp) for implemation details.<br>
+
 ## Samples
 
 - [duckduckgo.yml](https://github.com/omega-gg/backend/blob/master/duckduckgo.vbml): DuckDuckGo video search engine.
