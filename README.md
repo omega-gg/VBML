@@ -28,7 +28,7 @@ As a result, it's mostly designed for a [Video Browser](http://omega.gg/about/Vi
 ## Implementation
 
 VBML is currently implemented as a part of [Sky kit](http://omega.gg/Sky) for the MotionBox project.<br>
-You can take a look at the [WBackendUniversal.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal) class for implemation details.<br>
+You can take a look at the [WBackendUniversal](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.cpp) class for implemation details.<br>
 
 ## Samples
 
