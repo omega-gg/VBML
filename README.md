@@ -20,7 +20,7 @@ As a result it's mostly designed for a Video Browser (like MotionBox), but it mi
 
 ## Scenarios
 
-- Specify a backend to search and retrieve video tracsk from a search engine (like DuckDuckGo).
+- Specify a backend to retrieve video tracks from a search engine (like DuckDuckGo).
 - Specify a backend to access videos from a web service (like Youtube).
 - Specify a backend to retrieve video subtitles (like OpenSubtitles).
 - Specify a backend to retrieve video covers (like TMDb).
