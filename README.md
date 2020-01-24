@@ -32,6 +32,6 @@ As a result, it's mostly designed for a [Video Browser](http://omega.gg/about/Vi
 - [opensubtitles.yml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
 - [tmdb.yml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
 
-### Authors
+## Authors
 
 - Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
