@@ -27,7 +27,7 @@ As a result it's mostly designed for a Video Browser (like MotionBox), but it mi
 
 ## Samples
 
-- [duckduckgo.yml](https://raw.githubusercontent.com/omega-gg/backend/master/duckduckgo.vbml): DuckDuckGo video search engine.
-- [youtube.yml](https://raw.githubusercontent.com/omega-gg/backend/master/youtube.vbml): Youtube video retriever.
-- [opensubtitles.yml](https://raw.githubusercontent.com/omega-gg/backend/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
-- [tmdb.yml](https://raw.githubusercontent.com/omega-gg/backend/master/tmdb.vbml): TMDb cover retriever.
+- [duckduckgo.yml](https://github.com/omega-gg/backend/blob/master/duckduckgo.vbml): DuckDuckGo video search engine.
+- [youtube.yml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever.
+- [opensubtitles.yml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
+- [tmdb.yml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
