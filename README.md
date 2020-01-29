@@ -8,8 +8,8 @@ It can be extended with a scripting language to extract complex resources.<br>
 
 ## Script Language
 
-VBML comes with a scripting language designed to extract video resources on the Internet.<br>
-It enables the user to specify access routines to extract video resources.<br>
+VBML comes with a scripting language designed to extract complex video resources on the Internet.<br>
+It enables the user to specify access routines to extract these resources efficiently.<br>
 It's based on a very simple syntax with a focus on efficiency and simplicity.<br>
 
 ## History
