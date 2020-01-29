@@ -4,18 +4,18 @@ VBML is a markup language designed to provide direct access to video resources o
 It's based on YAML to keep things simple and human readable.<br>
 The goal is to provide standalone informations about video resources.<br>
 It's client based and highly depends on client side software.<br>
-It can be extended with VBL (Video Backend Language) to extract complex resources.<br>
+It can be extended with a scripting language to extract complex resources.<br>
 
-## Video Backend Language (VBL)
+## Script Language
 
-VBL is the VBML scripting language designed to extract video resources on the Internet.<br>
+VBML comes with a scripting language designed to extract video resources on the Internet.<br>
 It enables the user to specify access routines to extract video resources.<br>
 It's based on a very simple syntax with a focus on efficiency and simplicity.<br>
 
 ## History
 
 This language was designed based on practical experience at extracting video sources on the Internet.<br>
-It's meant to be coupled with a client based software that needs to retrieve multiple video resources efficently.<br>
+It's meant to be coupled with a client based software that needs to retrieve multiple video resources efficiently.<br>
 As a result, it's mostly designed for a [Video Browser](http://omega.gg/about/VideoBrowser) (like [MotionBox](http://omega.gg/MotionBox)), but it might be useful in different scenarios.<br>
 
 ## Scenarios
