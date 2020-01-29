@@ -14,7 +14,7 @@ It's based on a very simple syntax with a focus on efficiency and simplicity.<br
 
 ## History
 
-This language was designed based on practical experience at extracting video sources on the Internet.<br>
+This language was designed based on practical experience at extracting video resources on the Internet.<br>
 It's meant to be coupled with a client based software that needs to retrieve multiple video resources efficiently.<br>
 As a result, it's mostly designed for a [Video Browser](http://omega.gg/about/VideoBrowser) (like [MotionBox](http://omega.gg/MotionBox)), but it might be useful in different scenarios.<br>
 
