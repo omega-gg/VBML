@@ -1,10 +1,10 @@
 # Video Backend Markup Language (VBML)
 
-VBML is a markup language designed to provide direct access to video resources on the Internet.<br>
-It's based on YAML to keep things simple and human readable.<br>
-The goal is to provide standalone informations about video resources.<br>
-It's client based and highly depends on client side software.<br>
-It can be extended with a scripting language to extract complex resources.<br>
+VBML is a markup language designed to provide direct access to video resources on the Internet.
+It's based on YAML to keep things simple and human readable.
+The goal is to provide standalone informations about video resources.
+It's client based and highly depends on client side software.
+It can be extended with a scripting language to extract complex resources.
 
 ## Script Language
 
