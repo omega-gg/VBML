@@ -16,7 +16,7 @@ on a very simple syntax with a focus on efficiency and simplicity.
 
 This language was designed based on practical experience at extracting video resources on the
 Internet. It's meant to be coupled with a client based software that needs to retrieve multiple
-video resources efficiently. As a result, it was intially designed with a [Video Browser](http://omega.gg/MotionBox/VideoBrowser)
+video resources efficiently. It was intially designed with a [Video Browser](http://omega.gg/MotionBox/VideoBrowser)
 in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [MotionMonkey](http://omega.gg/MotionMonkey)
 and it might be useful in different scenarios.
 
