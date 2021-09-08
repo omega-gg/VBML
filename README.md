@@ -1,10 +1,10 @@
 # Video Backend Markup Language (VBML)
 
 VBML is a client based markup language designed to provide direct access to video resources on the
-Internet. It's based on [BML](https://github.com/omega-gg/BML) and [YAML](https://en.wikipedia.org/wiki/YAML)
-to keep things simple and human readable. The goal is to provide simple routines to access video
-resources directly. It's client based and entirely depends on the local software it runs from. It
-can be extended via a scripting language to extract complex resources.
+Internet. It's based on [BML](https://github.com/omega-gg/BML) and inspibred by [YAML](https://en.wikipedia.org/wiki/YAML)
+to keep things simple and human readable. The goal is to provide simple routines and properties in
+order to access video resources directly. It's client based and entirely depends on the software
+it's running from. It can be extended via a scripting language to extract complex video resources.
 
 ## Script Language
 
@@ -17,8 +17,8 @@ on a very simple syntax with a focus on efficiency and simplicity.
 This language was designed based on practical experience at extracting video resources on the
 Internet. It's meant to be coupled with a client based software that needs to retrieve multiple
 video resources efficiently. It was intially designed with a [Video Browser](http://omega.gg/MotionBox/VideoBrowser)
-in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [MotionMonkey](http://omega.gg/MotionMonkey)
-and it might be useful in different scenarios.
+in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [MotionMonkey](http://omega.gg/MotionMonkey),
+[clientVBML](http://omega.gg/clientVBML) and it might be useful in different scenarios.
 
 ## Scenarios
 
