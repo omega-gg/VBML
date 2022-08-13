@@ -45,35 +45,35 @@ covers: |
     youtube cover/youtube.png
 ```
 
-### backend_search: list
+### backends_search: list
 
 The list of backends dedicated to search with the format `id (string)`.
 ```
-backend_search: |
+backends_search: |
     duckduckgo
 ```
 
-### backend_track: list
+### backends_track: list
 
 The list of backends dedicated to tracks with the format `id (string)`.
 ```
-backend_track: |
+backends_track: |
     youtube
 ```
 
-### backend_cover: list
+### backends_cover: list
 
 The list of backends dedicated to track covers with the format `id (string)`.
 ```
-backend_cover: |
+backends_cover: |
     tmdb
 ```
 
-### backend_subtitle: list
+### backends_subtitle: list
 
 The list of backends dedicated to subtitles with the format `id (string)`.
 ```
-backend_subtitle: |
+backends_subtitle: |
     opensubtitles
 ```
 
