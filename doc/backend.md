@@ -11,7 +11,7 @@ and extract video resources on the Internet.
 type: backend
 ```
 
-## Settings
+## Properties
 
 ### type: string
 
@@ -39,7 +39,7 @@ The pattern that validates the supported URI(s).
 validate: ^youtube.com|^youtu.be
 ```
 
-## Settings optional
+## Properties optional
 
 ### source: url
 

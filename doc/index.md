@@ -12,7 +12,7 @@ video resources on the Internet.
 type: index
 ```
 
-## Settings
+## Properties
 
 ### type: string
 
@@ -31,7 +31,7 @@ backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
 
-## Settings optional
+## Properties optional
 
 ### source: url
 
