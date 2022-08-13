@@ -14,9 +14,9 @@ type: index
 
 The type must be set to `index`.
 
-### source (string)
+### source (url)
 
-The official source of the VBML file.
+The official source URL of the VBML file, where updates should be pulled from.
 
 ### version (version)
 
