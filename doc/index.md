@@ -41,7 +41,7 @@ covers: |
 
 ## Samples
 
-- [index.vbml](https://github.com/omega-gg/backend/blob/master/index.vbml): omega Movement backend index.
+- [index.vbml](https://github.com/omega-gg/backend/blob/master/index.vbml): omega Movement backend index
 
 ## Authors
 
