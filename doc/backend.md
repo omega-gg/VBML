@@ -23,7 +23,7 @@ The version of the VBML file.
 
 ### title: string
 
-The version of the backend.
+The title of the backend.
 
 ### host: string
 
@@ -34,7 +34,7 @@ host: youtube.com
 
 ### validate: regExp
 
-The pattern that validates URI(s) that this backend supports.
+The pattern that validates the supported URI(s).
 ```
 validate: ^youtube.com|^youtu.be
 ```
