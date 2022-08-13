@@ -1,5 +1,9 @@
 # VBML - Backend index
 
+This VBML file is the index that declares a set of backends and their core functionalities. That's
+often the entry point for a Semantic Player in order to retrieve a set of backends and access video
+resources on the Internet.
+
 ## Template
 
 ```
