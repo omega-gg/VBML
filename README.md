@@ -14,7 +14,7 @@ You can use VBML in the following scenarios:
 ### Simple cases
 
 - Declare a [Track](doc/track.md)
-- Declare a Playlist
+- Declare a [Playlist](doc/playlist.md)
 
 ### Advanced cases
 

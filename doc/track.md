@@ -28,7 +28,11 @@ source: https://www.youtube.com/watch?v=n5vjV4hwRxo
 
 ### subtype: string
 
-The subtype can be set to `media` or `live` depending if it's a media or a live stream.
+The subtype can be set to `media` (default) or `live` depending if it's a media or a live stream.
+
+### title: string
+
+The title of the media.
 
 ### cover: url
 
