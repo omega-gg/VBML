@@ -14,7 +14,7 @@ type: index
 
 - source [string]: The official source of the VBML file.
 
-- version [version]: The version of the VBML file with the x.x.x(...) format.
+- version [version]: The version of the VBML file with the `x.x.x(...) [version]` format.
 
 - backends [list]: The list of backends with the `id [string] name [string] version [version] validation [regExp]` 
 format.
