@@ -18,10 +18,6 @@ type: index
 
 The type must be set to `index`.
 
-### source: url (optional)
-
-The official source URL of the VBML file, where updates should be pulled from.
-
 ### version: x.x.x(...)
 
 The version of the VBML file.
@@ -34,6 +30,10 @@ The list of backends with the format `id (string) name (string) version (version
 backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
+
+### source: url (optional)
+
+The official source URL of the VBML file, where updates should be pulled from.
 
 ### covers: list (optional)
 
