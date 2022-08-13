@@ -23,6 +23,12 @@ backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
 
+- covers [list]: The list of backend covers with the `id [string] source [url]` format.
+```
+covers: |
+    youtube cover/youtube.png
+```
+
 ## Samples
 
 - [index.vbml](https://github.com/omega-gg/backend/blob/master/index.vbml): omega Movement backend index.
