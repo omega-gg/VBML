@@ -10,30 +10,30 @@ type: index
 
 ## Settings
 
-### type [string] 
+### type (string)
 
 The type must be set to `index`.
 
-### source [string] 
+### source (string)
 
 The official source of the VBML file.
 
-### version [version] 
+### version (version)
 
-The version of the VBML file with the format `x.x.x(...) [version]`.
+The version of the VBML file with the format `x.x.x(...) (version)`.
 
-### backends [list]
+### backends (list)
 
-The list of backends with the format `id [string] name [string] version [version] validation 
-[regExp]`.
+The list of backends with the format `id (string) name (string) version (version) validation 
+(regExp)`.
 ```
 backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
 
-### covers [list]
+### covers (list)
 
-The list of backend covers with the format `id [string] source [url]`.
+The list of backend covers with the format `id (string) source (url)`.
 ```
     covers: |
         youtube cover/youtube.png
