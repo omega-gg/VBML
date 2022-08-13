@@ -13,13 +13,13 @@ You can use VBML in the following scenarios:
 
 ### Simple cases
 
-- Declare a meta Playlist
-- Declare a meta Track
+- Declare a Playlist
+- Declare a Track
 
 ### Advanced cases
 
-- Specify a [video backend index](doc/index.md)
-- Specify a [video backend](doc/backend.md)
+- Specify a [Backend index](doc/index.md)
+- Specify a [Backend](doc/backend.md)
 
 ## Script Language
 
