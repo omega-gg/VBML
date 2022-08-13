@@ -18,10 +18,10 @@ type: index
 
 - backends [list]: The list of backends:
     - id [string] name [string] version [version] validation [regExp]
-    ```
-        backends: |
-            youtube Youtube 1.0.0 ^youtube.com|^youtu.be
-    ```
+```
+    backends: |
+        youtube Youtube 1.0.0 ^youtube.com|^youtu.be
+```
 
 ## Samples
 
