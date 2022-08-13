@@ -24,7 +24,8 @@ backends: |
 ```
 
 - covers [list]: The list of backend covers with the `id [string] source [url]` format.
-    - eg: ```
+    - eg: 
+      ```
       covers: |
           youtube cover/youtube.png
       ```
