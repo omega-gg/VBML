@@ -56,6 +56,12 @@ The publication date of the media.
 date:  2020-01-10T09:30:00
 ```
 
+## Help
+
+Ask your questions on the omega community: https://omega.gg/forum
+
+The omega Movement discord: https://omega.gg/discord
+
 ## Authors
 
 - Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>

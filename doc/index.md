@@ -81,6 +81,12 @@ backend_subtitle: |
 
 - [index.vbml](https://github.com/omega-gg/backend/blob/master/index.vbml): omega Movement backend index
 
+## Help
+
+Ask your questions on the omega community: https://omega.gg/forum
+
+The omega Movement discord: https://omega.gg/discord
+
 ## Authors
 
 - Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>

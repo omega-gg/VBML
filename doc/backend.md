@@ -71,6 +71,12 @@ search: tracks coverVideo
 - [opensubtitles.vbml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever
 - [tmdb.vbml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever
 
+## Help
+
+Ask your questions on the omega community: https://omega.gg/forum
+
+The omega Movement discord: https://omega.gg/discord
+
 ## Authors
 
 - Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
