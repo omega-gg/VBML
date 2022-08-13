@@ -2,9 +2,22 @@
 
 VBML is a client based markup language designed to provide direct access to video resources on the
 Internet. It's based on [BML](https://github.com/omega-gg/BML) and inspired by [YAML](https://en.wikipedia.org/wiki/YAML)
-to keep things simple and human readable. The goal is to provide simple routines and properties in
-order to access video resources directly. It's client based and entirely depends on the software
-it's running from. It can be extended via a scripting language to extract complex video resources.
+to keep things simple and human readable. The goal is to provide simple properties and routines in
+order to access and organize video resources on the Internet. It's client based and entirely
+depends on the software it's running from. It can be extended via a scripting language to extract
+complex video resources.
+
+## Scenarios
+
+You can use VBML in the following scenarios:
+
+Simple cases:
+    - Declare a meta Playlist.
+    - Declare a meta Track.
+
+Advanced cases:
+    - Specify a [video backend index](doc/index.md).
+    - Specify a [video backend](doc/backend.md).
 
 ## Script Language
 
@@ -20,27 +33,12 @@ video resources efficiently. It was intially designed with a [Video Browser](htt
 in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [MotionMonkey](http://omega.gg/MotionMonkey),
 [clientVBML](http://omega.gg/clientVBML) and it might be useful in different scenarios.
 
-## Scenarios
-
-- Specify a backend to retrieve video tracks from a search engine (like DuckDuckGo).
-- Specify a backend to access videos from a web service (like Youtube).
-- Specify a backend to retrieve video subtitles (like OpenSubtitles).
-- Specify a backend to retrieve video covers (like TMDb).
-
 ## Implementation
 
 VBML is currently implemented as a part of [Sky kit](http://omega.gg/Sky) for the MotionBox
 project. You can take a look at [WBackendUniversal.h](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.h)
 and [WBackendUniversal.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.cpp)
 for implemation details.
-
-## Samples
-
-- [duckduckgo.yml](https://github.com/omega-gg/backend/blob/master/duckduckgo.vbml): DuckDuckGo video search engine.
-- [bittorrent.yml](https://github.com/omega-gg/backend/blob/master/bittorrent.vbml): BitTorrent video retriever.
-- [youtube.yml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever.
-- [opensubtitles.yml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever.
-- [tmdb.yml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever.
 
 ## Authors
 
