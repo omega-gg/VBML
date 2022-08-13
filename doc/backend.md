@@ -1,7 +1,7 @@
 # VBML - Backend
 
-This VBML file is Semantic Player backend that declares a set of properties and routines to access
-and extract video resources on the Internet.
+This VBML file is a backend that declares a set of properties and routines to access and extract
+video resources on the Internet.
 
 ## Template
 
