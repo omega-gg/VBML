@@ -14,16 +14,16 @@ type: index
 
 - source [string]: The official source of the VBML file.
 
-- version [version]: The version of the VBML file with the `x.x.x(...) [version]` format.
+- version [version]: The version of the VBML file with the format `x.x.x(...) [version]`.
 
-- backends [list]: The list of backends with the `id [string] name [string] version [version] 
-validation [regExp]` format.
+- backends [list]: The list of backends with the format `id [string] name [string] version [version] 
+validation [regExp]`.
 ```
 backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
 
-- covers [list]: The list of backend covers with the `id [string] source [url]` format. 
+- covers [list]: The list of backend covers with the format `id [string] source [url]`.
 ```
     covers: |
         youtube cover/youtube.png
