@@ -11,13 +11,15 @@ complex video resources.
 
 You can use VBML in the following scenarios:
 
-Simple cases:
-    - Declare a meta Playlist.
-    - Declare a meta Track.
+### Simple cases
 
-Advanced cases:
-    - Specify a [video backend index](doc/index.md).
-    - Specify a [video backend](doc/backend.md).
+- Declare a meta Playlist.
+- Declare a meta Track.
+
+### Advanced cases
+
+- Specify a [video backend index](doc/index.md).
+- Specify a [video backend](doc/backend.md).
 
 ## Script Language
 
