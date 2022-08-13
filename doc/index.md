@@ -10,19 +10,19 @@ type: index
 
 ## Settings
 
-### type (string)
+### type: string
 
 The type must be set to `index`.
 
-### source (url)
+### source: url (optional)
 
 The official source URL of the VBML file, where updates should be pulled from.
 
-### version (version)
+### version: x.x.x(...)
 
-The version of the VBML file with the format `x.x.x(...) (version)`.
+The version of the VBML file.
 
-### backends (list)
+### backends: list
 
 The list of backends with the format `id (string) name (string) version (version) validation 
 (regExp)`.
@@ -31,12 +31,44 @@ backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
 
-### covers (list)
+### covers: list (optional)
 
 The list of backend covers with the format `id (string) source (url)`.
 ```
 covers: |
     youtube cover/youtube.png
+```
+
+### backend_search: list (optional)
+
+The list of backend dedicated to search with the format `id (string)`.
+```
+backend_search: |
+    duckduckgo
+```
+
+### backend_track: list (optional)
+
+The list of backend dedicated to tracks with the format `id (string)`.
+```
+backend_track: |
+    youtube
+```
+
+### backend_cover: list (optional)
+
+The list of backend dedicated to track covers with the format `id (string)`.
+```
+backend_cover: |
+    tmdb
+```
+
+### backend_cover: list (optional)
+
+The list of backend dedicated to subtitles with the format `id (string)`.
+```
+backend_subtitle: |
+    opensubtitles
 ```
 
 ## Samples
