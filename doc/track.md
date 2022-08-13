@@ -1,4 +1,4 @@
-# [VBML](../README.md) | Track
+# [VBML](../README.md) Track
 
 This VBML file is a meta track that declares a set of properties to define a comprehensive video
 source on the Internet.
