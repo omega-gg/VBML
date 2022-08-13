@@ -40,6 +40,20 @@ The title of the playlist.
 
 The cover of the playlist.
 
-### author: string
+### tracks: list
 
-The author of the playlist.
+The list of tracks with the format `source (uri)`.
+```
+tracks: |
+    https://www.youtube.com/watch?v=n5vjV4hwRxo
+```
+
+## Help
+
+Ask your questions on the omega community: https://omega.gg/forum
+
+The omega Movement discord: https://omega.gg/discord
+
+## Authors
+
+- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
