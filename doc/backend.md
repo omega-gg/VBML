@@ -1,11 +1,59 @@
 # VBML - Backend
 
+This VBML file is Semantic Player backend that declares a set of properties and routines to access
+and extract video resources on the Internet.
+
 ## Template
 
 ```
 # VBML 1.0.0
 
 type: backend
+```
+
+## Settings
+
+### type: string
+
+The type must be set to `backend`.
+
+### version: x.x.x(...)
+
+The version of the VBML file.
+
+### title: string
+
+The version of the backend.
+
+### host: string
+
+The host of the backend.
+```
+host: youtube.com
+```
+
+### validate: regExp
+
+The pattern that validates URI(s) that this backend supports.
+```
+validate: ^youtube.com|^youtu.be
+```
+
+## Settings optional
+
+### source: url
+
+The official source URL of the VBML file, where updates should be pulled from.
+
+### cover: url
+
+The picture cover of the backend.
+
+### search: string
+
+The search capabilities of the backend, can be `tracks`, `coverAudio` and `coverVideo`.
+```
+search: tracks coverVideo
 ```
 
 ## Scenarios
