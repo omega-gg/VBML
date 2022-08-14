@@ -13,13 +13,13 @@ You can use VBML in the following scenarios:
 
 ### Simple cases
 
-- Declare a [Track](doc/track.md)
-- Declare a [Playlist](doc/playlist.md)
+- [Track](doc/track.md)
+- [Playlist](doc/playlist.md)
 
 ### Advanced cases
 
-- Specify a [Backend index](doc/index.md)
-- Specify a [Backend](doc/backend.md)
+- [Backend index](doc/index.md)
+- [Backend](doc/backend.md)
 
 ## Script Language
 
