@@ -23,10 +23,10 @@ You can use VBML in the following scenarios:
 
 ## Samples
 
-- [track.vbml](../samples/track.vbml)
-- [live.vbml](../samples/live.vbml)
-- [playlist.vbml](../samples/playlist.vbml)
-- [feed.vbml](../samples/feed.vbml)
+- [track.vbml](samples/track.vbml)
+- [live.vbml](samples/live.vbml)
+- [playlist.vbml](samples/playlist.vbml)
+- [feed.vbml](samples/feed.vbml)
 
 ## Script Language
 
