@@ -15,6 +15,7 @@ You can use VBML in the following scenarios:
 
 - [Track](doc/track.md)
 - [Playlist](doc/playlist.md)
+- [Feed](doc/playlist.md)
 
 ### Advanced cases
 

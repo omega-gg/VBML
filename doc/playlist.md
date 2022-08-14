@@ -48,6 +48,11 @@ tracks: |
     https://www.youtube.com/watch?v=n5vjV4hwRxo
 ```
 
+## Samples
+
+- [playlist.vbml](../samples/playlist.vbml)
+- [feed.vbml](../samples/feed.vbml)
+
 ## Help
 
 Ask your questions on the omega community: https://omega.gg/forum
