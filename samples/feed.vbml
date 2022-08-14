@@ -1,8 +1,6 @@
 # vbml 1.0.4
 
-type: playlist
-
-subtype: feed
+type: feed
 
 title: Chillwave feed
 

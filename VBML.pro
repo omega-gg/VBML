@@ -4,6 +4,7 @@ OTHER_FILES += README.md \
                doc/index.md \
                doc/backend.md \
                samples/track.vbml \
+               samples/live.vbml \
                samples/playlist.vbml \
                samples/feed.vbml \
                changes/1.0.1.md \

@@ -1,4 +1,4 @@
-# [VBML](../README.md) Track
+# [VBML](../README.md) Track / Live
 
 This VBML file is a meta track that declares a set of properties to define a comprehensive media
 source on the Internet.
@@ -8,14 +8,14 @@ source on the Internet.
 ```
 # VBML 1.0.0
 
-type: track
+type: track # or live
 ```
 
 ## Properties
 
 ### type: string
 
-The type must be set to `track`.
+The type can be set to `track` or `live` depending if it's a media or a live stream.
 
 ### source: uri
 
@@ -25,10 +25,6 @@ source: https://www.youtube.com/watch?v=n5vjV4hwRxo
 ```
 
 ## Properties optional
-
-### subtype: string
-
-The subtype can be set to `media` (default) or `live` depending if it's a media or a live stream.
 
 ### title: string
 
@@ -63,6 +59,7 @@ date:  2020-01-10T09:30:00
 ## Samples
 
 - [track.vbml](../samples/track.vbml)
+- [live.vbml](../samples/live.vbml)
 
 ## Help
 

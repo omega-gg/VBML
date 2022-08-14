@@ -1,4 +1,4 @@
-# [VBML](../README.md) Playlist
+# [VBML](../README.md) Playlist / Feed
 
 This VBML file is a meta playlist that declares a set of properties to define a comprehensive list
 of medias on the Internet.
@@ -8,22 +8,18 @@ of medias on the Internet.
 ```
 # VBML 1.0.0
 
-type: playlist
+type: playlist # or feed
 ```
 
 ## Properties
 
 ### type: string
 
-The type must be set to `playlist`.
+The type can be set to `playlist` or `feed` depending if it's a playlist or a feed. A playlist is a
+sequential list of tracks. A feed contains a stack of tracks where the first track is viewed as the
+most recent entry.
 
 ## Properties optional
-
-### subtype: string
-
-The subtype can be set to `playlist` (default) or `feed` depending if it's a playlist or a feed. A
-playlist is sequential list of tracks. A feed contains a stack of tracks where the first track is
-viewed as the most recent entry.
 
 ### source: uri
 
