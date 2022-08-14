@@ -21,6 +21,13 @@ You can use VBML in the following scenarios:
 - [Backend index](doc/index.md)
 - [Backend](doc/backend.md)
 
+## Samples
+
+- [track.vbml](../samples/track.vbml)
+- [live.vbml](../samples/live.vbml)
+- [playlist.vbml](../samples/playlist.vbml)
+- [feed.vbml](../samples/feed.vbml)
+
 ## Script Language
 
 VBML comes with a scripting language designed to extract complex video resources on the Internet.
