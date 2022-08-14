@@ -1,7 +1,7 @@
 # [VBML](../README.md) Playlist
 
-This VBML file is a meta playlist that declares a set of properties to define a comprehensive list
-of medias on the Internet.
+This VBML file is a meta playlist that declares a set of properties to define a list of medias on
+the Internet.
 
 ## Template
 

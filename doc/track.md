@@ -1,7 +1,7 @@
 # [VBML](../README.md) Track
 
-This VBML file is a meta track that declares a set of properties to define a comprehensive media
-source on the Internet.
+This VBML file is a meta track that declares a set of properties to define a media source on the
+Internet.
 
 ## Template
 
