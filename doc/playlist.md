@@ -23,7 +23,7 @@ most recent entry.
 
 ### source: uri
 
-The source of the playlist.
+The official source URL of the VBML file, where updates should be pulled from.
 ```
 source: https://www.youtube.com/c/Asthenic
 ```
