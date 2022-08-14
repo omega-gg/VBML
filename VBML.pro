@@ -3,6 +3,7 @@ OTHER_FILES += README.md \
                doc/playlist.md \
                doc/index.md \
                doc/backend.md \
+               samples/track.vbml \
                changes/1.0.1.md \
                changes/1.0.2.md \
                changes/1.0.3.md \
