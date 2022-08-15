@@ -19,7 +19,7 @@ The type can be set to `playlist` or `feed` depending if it's a playlist or a fe
 sequential list of tracks. A feed contains a stack of tracks where the first track is viewed as the
 most recent entry.
 
-## Properties optional
+## Optional
 
 ### origin: uri
 

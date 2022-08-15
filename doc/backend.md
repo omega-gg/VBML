@@ -39,7 +39,7 @@ The pattern that validates the supported URI(s).
 validate: ^youtube.com|^youtu.be
 ```
 
-## Properties optional
+## Optional
 
 ### origin: uri
 

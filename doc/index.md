@@ -31,7 +31,7 @@ backends: |
     youtube Youtube 1.0.0 ^youtube.com|^youtu.be
 ```
 
-## Properties optional
+## Optional
 
 ### origin: uri
 
