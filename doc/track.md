@@ -17,8 +17,6 @@ type: track # or live
 
 The type can be set to `track` or `live` depending if it's a media or a live stream.
 
-## Optional
-
 ### source: uri
 
 The source of the media.
