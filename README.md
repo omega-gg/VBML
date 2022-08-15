@@ -45,9 +45,11 @@ in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [Mo
 ## Implementation
 
 VBML is currently implemented as a part of [Sky kit](http://omega.gg/Sky) for the MotionBox
-project. You can take a look at [WBackendUniversal.h](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.h)
-and [WBackendUniversal.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.cpp)
-for implemation details.
+project. You can take a look at the following sources for implementation details:
+
+- [WControllerPlaylist.h](https://github.com/omega-gg/Sky/blob/master/src/SkGui/src/controllers/WControllerPlaylist.h)
+- [WBackendIndex.h](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/io/WBackendIndex.h)
+- [WBackendUniversal.h](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.h)
 
 ## Authors
 
