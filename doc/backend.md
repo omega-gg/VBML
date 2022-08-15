@@ -41,9 +41,9 @@ validate: ^youtube.com|^youtu.be
 
 ## Properties optional
 
-### source: url
+### origin: uri
 
-The official source URL of the VBML file, where updates should be pulled from.
+The original URI where updates should be pulled from.
 
 ### cover: url
 

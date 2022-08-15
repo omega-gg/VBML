@@ -21,9 +21,14 @@ most recent entry.
 
 ## Properties optional
 
+### origin: uri
+
+The original URI where updates should be pulled from.
+
 ### source: uri
 
-The official source URL of the VBML file, where updates should be pulled from.
+The source of playlist.
+
 ```
 source: https://www.youtube.com/c/Asthenic
 ```

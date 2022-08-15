@@ -17,6 +17,8 @@ type: track # or live
 
 The type can be set to `track` or `live` depending if it's a media or a live stream.
 
+## Properties optional
+
 ### source: uri
 
 The source of the media.
@@ -24,7 +26,9 @@ The source of the media.
 source: https://www.youtube.com/watch?v=n5vjV4hwRxo
 ```
 
-## Properties optional
+### origin: uri
+
+The original URI where updates should be pulled from.
 
 ### title: string
 
