@@ -17,6 +17,8 @@ type: track # or live
 
 The type can be set to `track` or `live` depending if it's a media or a live stream.
 
+## Optional
+
 ### origin: uri
 
 The original URI where updates should be pulled from.
