@@ -21,13 +21,20 @@ The type can be set to `track` or `live` depending if it's a media or a live str
 
 ### origin: uri
 
-The original URI where updates should be pulled from.
+The original VBML URI where updates should be pulled from.
 
 ### source: uri
 
-The source of the media.
+The source of the track. The track properties will be updated.
 ```
 source: https://www.youtube.com/watch?v=n5vjV4hwRxo
+```
+
+### media: uri
+
+The media source of the track. The track properties will not be updated.
+```
+media: https://www.youtube.com/watch?v=n5vjV4hwRxo
 ```
 
 ### title: string

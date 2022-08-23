@@ -35,7 +35,7 @@ backends: |
 
 ### origin: uri
 
-The original URI where updates should be pulled from.
+The original VBML URI where updates should be pulled from.
 
 ### covers: list
 

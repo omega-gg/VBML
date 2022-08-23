@@ -43,7 +43,7 @@ validate: ^youtube.com|^youtu.be
 
 ### origin: uri
 
-The original URI where updates should be pulled from.
+The original VBML URI where updates should be pulled from.
 
 ### cover: url
 
