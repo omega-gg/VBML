@@ -9,8 +9,8 @@ complex video resources.
 
 ## Index
 
-- Software supporting VBML: [Software](software.md)
-- VBML ethical principles: [Ethics](ethics.md)
+- [Software supporting VBML](software.md)
+- [VBML ethical principles](ethics.md)
 
 ## Scenarios
 
