@@ -5,4 +5,4 @@
 
 ### logo asset
 
-<img src="pictures/MotionFreedom.png" alt="MotionFreedom" width="512px">
+<img src="pictures/MotionFreedom.png" alt="MotionFreedom" width="256px">
