@@ -1,4 +1,4 @@
-# [VBML](README.md) Ethical principles
+# [VBML](README.md) / Ethical principles
 
 ## Motion Freedom
 
