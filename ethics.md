@@ -3,8 +3,8 @@
 ## Motion Freedom
 
 Motion Freedom is a set of ethical principles regarding video streaming on the Internet. These core
-principles are implemented in software tools that are willing to innovate and empower people that
-way. The principles are the following:
+principles are implemented in software tools that are willing to innovate in order to empower 
+people that way. The principles are the following:
 
 - The freedom to access video resources on the Internet
 - The freedom to organize decentralized video sources
@@ -13,7 +13,7 @@ way. The principles are the following:
 ### The freedom to access
 
 The freedom to access means that the user should be able to access video resources themselves with
-no intermediary between the software client and the data. In other words, the data should be
+no intermediary between the software client and the data. In other words, the data bytes should be
 accessed directly on the remote server. This should be applied for video resources and related
 resources like metadata or subtitles.
 
