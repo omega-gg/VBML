@@ -1,4 +1,6 @@
 OTHER_FILES += README.md \
+               software.md \
+               ethics.md \
                doc/track.md \
                doc/playlist.md \
                doc/index.md \
