@@ -3,6 +3,6 @@
 ## Motion Freedom
 
 
-### assets
+### logo asset
 
 <img src="pictures/MotionFreedom.png" alt="MotionFreedom" width="512px">
