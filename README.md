@@ -7,10 +7,8 @@ order to access and organize video resources on the Internet. It's client based 
 depends on the software it's running from. It can be extended via a scripting language to extract
 complex video resources.
 
-## Index
-
-- [Software supporting VBML](software.md)
-- [VBML ethical principles](ethics.md)
+- [VBML Software](software.md)
+- [VBML Ethics](ethics.md)
 
 ## Scenarios
 
