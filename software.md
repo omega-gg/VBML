@@ -1,4 +1,4 @@
-# [VBML](README.md) / Software
+# [VBML](README.md) Software
 
 ## Semantic Player
 
