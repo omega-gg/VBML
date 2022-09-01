@@ -13,8 +13,8 @@ principles should be implemented in software tools that are willing to innovate 
 
 The freedom to access means that the user should be able to access video resources with no
 intermediary between the software client and the data. In other words, the data bytes should be
-accessed directly on the remote server. This should be applied for video resources and related
-resources like metadata or subtitles.
+accessed directly on the remote server. This should be applied for video sources and related
+resources like metadata(s) or subtitles.
 
 ### The freedom to organize
 
