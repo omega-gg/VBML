@@ -46,7 +46,7 @@ Ce langage a été conçu en se basant sur une expérience pratique concernat l'
 ressources vidéo sur Internet. Il est pensé pour être couplé avec un logiciel orienté client qui
 requiert un accès efficace à ces multiples ressources vidéo. Il a originellement été conçu pour un
 [Navigateur Vidéo](https://omega.gg/about/VideoBrowser/fr) (comme [MotionBox](https://omega.gg/MotionBox/fr))
-mais il est également utile pour [MotionMonkey](https://omega.gg/MotionMonkey/fr), [clientVBML](https://omega.gg/clientVBML/fr)
+mais il est également utile pour [MotionMonkey](https://omega.gg/MotionMonkey/fr), [clientVBML](https://omega.gg/clientVBML)
 et pourrait s'avérer utile dans d'autres scénarios.
 
 ## Implementation
