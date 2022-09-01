@@ -29,6 +29,12 @@ The freedom to share means that the user should be able to share video content w
 Whether it's a video source or a collection of videos like a Playlist or a Feed the user should be
 able to play and access these resources in a universal way without third party intervention.
 
+## Related projects
+
+- [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
+- [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
+- [tevolution](https://omega.gg/tevolution) - Remote Video Screen
+
 ## Assets
 
 Motion Freedom logo: [MotionFreedom.png](pictures/MotionFreedom.png)
