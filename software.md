@@ -25,8 +25,8 @@ video tabs and drag & drop.
 
 ## Related projects
 
-- [MotionBox](http://omega.gg/MotionBox/sources) - Video Browser
 - [MotionMonkey](http://omega.gg/MotionMonkey) - Semantic Player
+- [MotionBox](http://omega.gg/MotionBox/sources) - Video Browser
 - [tevolution](http://omega.gg/tevolution) - Remote Video Screen
 
 ## Authors
