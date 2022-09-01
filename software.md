@@ -8,12 +8,12 @@ lives.
 ## Semantic Player
 
 A Semantic Player is a video player designed to stream videos on the Internet from simple text
-queries. It's semantic based meaning it understands search queries and a dedicated language called
-[VBML](https://github.com/omega-gg/VBML). It also parses content from various providers. This tool 
-represents a paradigm shift from file based media player(s) to query based video playback. It's
-also primarly built for the Internet as opposed to the local context of multimedia players. As a
-result, the question is no longer "*where* is the file you want to play" but "*what* do you want
-to play". Essentially moving away from video file input(s) towards language input(s).
+queries. It's "semantic based" meaning it understands search queries and a dedicated language
+called [VBML](https://github.com/omega-gg/VBML). It also parses content from various providers.
+This tool represents a paradigm shift from file based media player(s) to query based video
+playback. It's also primarly built for the Internet as opposed to the local context of multimedia
+players. As a result, the question is no longer "*where* is the file you want to play" but "*what*
+do you want to play". Essentially moving away from video file input(s) towards language input(s).
 
 ## Video Browser
 
