@@ -9,6 +9,7 @@ OTHER_FILES += README.md \
                samples/live.vbml \
                samples/playlist.vbml \
                samples/feed.vbml \
+               fr/README.md \
                changes/1.0.1.md \
                changes/1.0.2.md \
                changes/1.0.3.md \

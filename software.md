@@ -17,11 +17,17 @@ do you want to play". Essentially moving away from video file input(s) towards l
 
 ## Video Browser
 
-A Video Browser is a comprehensive Semantic Player designed for desktop computers that adds editing
-functionalities. It supports the core semantic playback together with a comprehensive local
-library. This enables playlist(s) and feed(s) creation and provides an efficient way to organize
-video tracks. It also comes with additional desktop functionalities like video tabs and 
-drag & drop.
+A Video Browser is a comprehensive Semantic Player designed for desktop computers with a focus on
+track browsing and editing functionalities. It supports the core semantic playback together with a
+comprehensive local library. This enables playlist(s) and feed(s) creation and provides an
+efficient way to organize video tracks. It also comes with additional desktop functionalities like
+video tabs and drag & drop.
+
+## Projects
+
+- [MotionBox](http://omega.gg/MotionBox/sources) - Video Browser
+- [MotionMonkey](http://omega.gg/MotionMonkey) - Semantic Player
+- [tevolution](http://omega.gg/tevolution) - Remote Video Screen
 
 ## Authors
 

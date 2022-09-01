@@ -1,39 +1,44 @@
 # Video Backend Markup Language (VBML)
 
-## english / [français](fr/README.md)
+## [english](../README.md) / français
 
-VBML is a client based markup language designed to provide direct access to video resources on the
-Internet. It's based on [BML](https://github.com/omega-gg/BML) and inspired by [YAML](https://en.wikipedia.org/wiki/YAML)
-to keep things simple and human readable. The goal is to provide simple properties and routines in
-order to access and organize video resources on the Internet. The langauge is client based and
-depends entirely on the software it's running from. It can be extended via a scripting language to
-extract complex video resources.
+VBML est un langage de balises orienté client conçu pour accéder directement aux ressources vidéo
+sur Internet. Il est basé sur [BML](https://github.com/omega-gg/BML) et inspiré par [YAML](https://en.wikipedia.org/wiki/YAML)
+pour garantir sa simplicité et le rendre facilement lisible. L'objectif est de fournir des
+propriétés et routines simples afin d'accéder et organiser les ressources vidéo sur Internet. Le
+langage est orienté client et dépend entièrement du logiciel qui l'exécute. Il peut être étendu via
+un langage de script pour extraire des ressources vidéo plus complexes.
 
 - [VBML Software](software.md)
 - [VBML Ethics](ethics.md)
 
-## Scenarios
+## Scénarios
 
-You can use VBML in the following scenarios:
+Vous pouvez faire usage du VBML dans les scénarios suivants:
 
-### Simple cases
+### Usages simples
 
 - [Track](doc/track.md)
 - [Playlist](doc/playlist.md)
 
-### Advanced cases
+### Usages avancés
 
 - [Backend index](doc/index.md)
 - [Backend](doc/backend.md)
 
-## Samples
+## Exemples
 
 - [track.vbml](samples/track.vbml)
 - [live.vbml](samples/live.vbml)
 - [playlist.vbml](samples/playlist.vbml)
 - [feed.vbml](samples/feed.vbml)
 
-## Script Language
+## Langage de script
+
+VBML intégre un langage de script conçu pour extraire des ressources vidéo complexes sur Internet.
+Il permet à l'utilisateur de spécifier des routines d'acccès pour extraire ces ressources efficacement.
+Il se base sur une syntaxe très simple qui met l'accent sur l'efficacité et la simplicité.
+
 
 VBML comes with a scripting language designed to extract complex video resources on the Internet.
 It enables the user to specify access routines to extract these resources efficiently. It's based
@@ -49,8 +54,8 @@ in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [Mo
 
 ## Implementation
 
-The VBML engine is currently implemented as a part of [Sky kit](http://omega.gg/Sky). You can take
-a look at the following sources for implementation details:
+VBML is currently implemented as a part of [Sky kit](http://omega.gg/Sky) for the MotionBox
+project. You can take a look at the following sources for implementation details:
 
 - [WControllerPlaylist.h](https://github.com/omega-gg/Sky/blob/master/src/SkGui/src/controllers/WControllerPlaylist.h)
 | [WControllerPlaylist.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkGui/src/controllers/WControllerPlaylist.cpp)
