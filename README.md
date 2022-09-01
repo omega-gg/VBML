@@ -1,6 +1,6 @@
 # Video Backend Markup Language (VBML)
 
-### english / [français](fr/README.md)
+## english / [français](fr/README.md)
 
 VBML is a client based markup language designed to provide direct access to video resources on the
 Internet. It's based on [BML](https://github.com/omega-gg/BML) and inspired by [YAML](https://en.wikipedia.org/wiki/YAML)
