@@ -18,44 +18,41 @@ Vous pouvez faire usage du VBML dans les scénarios suivants:
 
 ### Usages simples
 
-- [Track](doc/track.md)
-- [Playlist](doc/playlist.md)
+- [Track](../doc/track.md)
+- [Playlist](../doc/playlist.md)
 
 ### Usages avancés
 
-- [Backend index](doc/index.md)
-- [Backend](doc/backend.md)
+- [Backend index](../doc/index.md)
+- [Backend](../doc/backend.md)
 
 ## Exemples
 
-- [track.vbml](samples/track.vbml)
-- [live.vbml](samples/live.vbml)
-- [playlist.vbml](samples/playlist.vbml)
-- [feed.vbml](samples/feed.vbml)
+- [track.vbml](../samples/track.vbml)
+- [live.vbml](../samples/live.vbml)
+- [playlist.vbml](../samples/playlist.vbml)
+- [feed.vbml](../samples/feed.vbml)
 
 ## Langage de script
 
-VBML intégre un langage de script conçu pour extraire des ressources vidéo complexes sur Internet.
-Il permet à l'utilisateur de spécifier des routines d'acccès pour extraire ces ressources efficacement.
-Il se base sur une syntaxe très simple qui met l'accent sur l'efficacité et la simplicité.
+VBML intègre un langage de script conçu pour extraire des ressources vidéo complexes sur Internet.
+Il permet à l'utilisateur de spécifier des routines d'acccès pour extraire ces ressources
+efficacement. Il se base sur une syntaxe très simple qui met l'accent sur l'efficacité et la
+simplicité.
 
+## Histoire
 
-VBML comes with a scripting language designed to extract complex video resources on the Internet.
-It enables the user to specify access routines to extract these resources efficiently. It's based
-on a very simple syntax with a focus on efficiency and simplicity.
-
-## History
-
-This language was designed based on practical experience at extracting video resources on the
-Internet. It's meant to be coupled with a client based software that needs to retrieve multiple
-video resources efficiently. It was intially designed with a [Video Browser](http://omega.gg/about/VideoBrowser)
-in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [MotionMonkey](http://omega.gg/MotionMonkey),
-[clientVBML](http://omega.gg/clientVBML) and it might be useful in different scenarios.
+Ce langage a été conçu en se basant sur une expérience pratique concernat l'extraction des
+ressources vidéo sur Internet. Il est pensé pour être couplé avec un logiciel orienté client qui
+requiert un accès efficace à ces multiples ressources vidéo. Il a originellement été conçu pour un
+[Navigateur Vidéo](https://omega.gg/about/VideoBrowser/fr) (comme [MotionBox](https://omega.gg/MotionBox/fr))
+mais il est également utile pour [MotionMonkey](https://omega.gg/MotionMonkey/fr), [clientVBML](https://omega.gg/clientVBML/fr)
+et pourrait s'avérer utile dans d'autres scénarios.
 
 ## Implementation
 
-VBML is currently implemented as a part of [Sky kit](http://omega.gg/Sky) for the MotionBox
-project. You can take a look at the following sources for implementation details:
+Le moteur VBML est actuellement implémenté dans [Sky kit](https://omega.gg/Sky/fr). Vous pouvez
+consulter les sources pour de plus amples détails:
 
 - [WControllerPlaylist.h](https://github.com/omega-gg/Sky/blob/master/src/SkGui/src/controllers/WControllerPlaylist.h)
 | [WControllerPlaylist.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkGui/src/controllers/WControllerPlaylist.cpp)
@@ -64,6 +61,6 @@ project. You can take a look at the following sources for implementation details
 - [WBackendUniversal.h](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.h)
 | [WBackendUniversal.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.cpp)
 
-## Authors
+## Auteurs
 
-- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud alias [bunjee](https://bunjee.me/fr) | <bunjee@omega.gg>

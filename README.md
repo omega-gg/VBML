@@ -43,13 +43,13 @@ on a very simple syntax with a focus on efficiency and simplicity.
 
 This language was designed based on practical experience at extracting video resources on the
 Internet. It's meant to be coupled with a client based software that needs to retrieve multiple
-video resources efficiently. It was intially designed with a [Video Browser](http://omega.gg/about/VideoBrowser)
-in mind (like [MotionBox](http://omega.gg/MotionBox)) but it's also used for [MotionMonkey](http://omega.gg/MotionMonkey),
-[clientVBML](http://omega.gg/clientVBML) and it might be useful in different scenarios.
+video resources efficiently. It was intially designed with a [Video Browser](https://omega.gg/about/VideoBrowser)
+in mind (like [MotionBox](https://omega.gg/MotionBox)) but it's also used for [MotionMonkey](https://omega.gg/MotionMonkey),
+[clientVBML](https://omega.gg/clientVBML) and it might be useful in other scenarios.
 
 ## Implementation
 
-The VBML engine is currently implemented as a part of [Sky kit](http://omega.gg/Sky). You can take
+The VBML engine is currently implemented as a part of [Sky kit](https://omega.gg/Sky). You can take
 a look at the following sources for implementation details:
 
 - [WControllerPlaylist.h](https://github.com/omega-gg/Sky/blob/master/src/SkGui/src/controllers/WControllerPlaylist.h)
@@ -61,4 +61,4 @@ a look at the following sources for implementation details:
 
 ## Authors
 
-- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>

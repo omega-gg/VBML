@@ -79,4 +79,4 @@ The omega Movement discord: https://omega.gg/discord
 
 ## Authors
 
-- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>

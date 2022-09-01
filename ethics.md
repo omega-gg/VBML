@@ -35,4 +35,4 @@ Motion Freedom logo: [MotionFreedom.png](pictures/MotionFreedom.png)
 
 ## Authors
 
-- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>

@@ -25,10 +25,10 @@ video tabs and drag & drop.
 
 ## Related projects
 
-- [MotionBox](http://omega.gg/MotionBox/sources) - Video Browser
-- [MotionMonkey](http://omega.gg/MotionMonkey) - Semantic Player
-- [tevolution](http://omega.gg/tevolution) - Remote Video Screen
+- [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
+- [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
+- [tevolution](https://omega.gg/tevolution) - Remote Video Screen
 
 ## Authors
 
-- Benjamin Arnaud aka [bunjee](http://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>
