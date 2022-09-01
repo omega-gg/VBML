@@ -26,8 +26,8 @@ relevant and what's not with his own sensibility.
 ### The freedom to share
 
 The freedom to share means that the user should be able to share video content with the world.
-Whether it's a video resource or a collection of videos like a Playlist or a Feed the user should
-be able to play and access these resources in a universal way without third party restrictions.
+Whether it's a video source or a collection of videos like a Playlist or a Feed the user should be
+able to play and access these resources in a universal way without third party intervention.
 
 ## Assets
 
