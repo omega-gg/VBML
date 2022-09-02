@@ -38,7 +38,7 @@ intervention.
 
 ## Assets
 
-<a href="pictures/MotionFreedom.png"><img src="pictures/MotionFreedom.png" alt="Motion Freedom" width="320px"></a>
+<a href="../pictures/MotionFreedom.png"><img src="../pictures/MotionFreedom.png" alt="Motion Freedom" width="320px"></a>
 
 ## Authors
 
