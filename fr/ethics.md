@@ -39,7 +39,7 @@ universellement et sans l'intervention d'une entité tierce.
 
 ## Documents
 
-<a href="../pictures/MotionFreedom.png"><img src="../pictures/MotionFreedom.png" alt="Liberté Médiatique" width="320px"></a>
+<a href="pictures/LiberteMediatique.png"><img src="pictures/LiberteMediatique.png" alt="Liberté Médiatique" width="320px"></a>
 
 ## Auteurs
 
