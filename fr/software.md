@@ -31,6 +31,6 @@ Il comprends également des fonctionnalités "desktop" comme les onglets vidéo 
 - [MotionMonkey](https://omega.gg/MotionMonkey/fr) - Lecteur Sémantique
 - [tevolution](https://omega.gg/tevolution/fr) - Écran Vidéo Déporté
 
-## Authors
+## Auteurs
 
-- Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>
+- Benjamin Arnaud alias [bunjee](https://bunjee.me/fr) | <bunjee@omega.gg>
