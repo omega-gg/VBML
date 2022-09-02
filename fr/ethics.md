@@ -29,7 +29,7 @@ d'effectuer une curation sur ce qu'il juge important ou non selon sa propre sens
 La liberté de partager signifie que l'utilisateur doit être en mesure de partager le contenu vidéo
 avec le monde entier. Que ce soit une source vidéo ou un ensemble de vidéos comme une Playlist ou
 un Feed, l'utilisateur doit être en mesure de partager ces ressources de personne a personne,
-universellement et sans l'intervention d'une entité tierce.
+universellement et sans intervention d'une entité tierce.
 
 ## Projets en relation
 
