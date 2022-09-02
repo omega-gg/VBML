@@ -3,7 +3,7 @@
 Ce document est un listing des logiciels en lien avec le VBML. Même si c'est probablement le
 développement de ces outils en eux-mêmes qui a inspiré le VBML en premier lieu. Ces définitions
 sont susceptibles de changer à chaque fois qu'une meilleure compréhension de ces nouveaux outils
-et de leur importance dans nos vies pourra être formulée.
+pourra être formulée.
 
 ## Lecteur Sémantique
 

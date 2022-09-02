@@ -2,8 +2,7 @@
 
 This document is a listing of VBML related software. Although, to be fair it's probably the very
 development of these tools that inspired VBML in the first place. These definitions are subject to
-evolve each time we get a clearer understanding of these new tools and how they matter in our
-lives.
+evolve each time we get a clearer understanding of these new tools.
 
 ## Semantic Player
 
