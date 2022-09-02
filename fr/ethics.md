@@ -39,7 +39,7 @@ universellement et sans l'intervention d'une entité tierce.
 
 ## Documents
 
-Logo Liberté Médiatique: [MotionFreedom.png](pictures/MotionFreedom.png)
+Logo Liberté Médiatique: [MotionFreedom.png](../pictures/MotionFreedom.png)
 
 ## Auteurs
 
