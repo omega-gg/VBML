@@ -38,7 +38,8 @@ intervention.
 
 ## Assets
 
-Motion Freedom logo: [MotionFreedom.png](pictures/MotionFreedom.png)
+<a href="pictures/MotionFreedom.png"><img src="pictures/MotionFreedom.png" alt="Motion Freedom" width="320px"></a>
+Motion Freedom: [MotionFreedom.png](pictures/MotionFreedom.png)
 
 ## Authors
 
