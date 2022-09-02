@@ -31,10 +31,6 @@ avec le monde entier. Que ce soit une source vidéo ou un ensemble de vidéos co
 un Feed, l'utilisateur doit être en mesure de partager ces ressources de personne a personne,
 universellement et sans intervention d'une entité tierce.
 
-## Pages en relation
-
-- [VBML Logiciels](software.md)
-
 ## Projets en relation
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Navigateur Vidéo
