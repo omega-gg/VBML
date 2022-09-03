@@ -61,6 +61,12 @@ consulter les sources pour de plus amples détails:
 - [WBackendUniversal.h](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.h)
 | [WBackendUniversal.cpp](https://github.com/omega-gg/Sky/blob/master/src/SkBackend/src/media/WBackendUniversal.cpp)
 
+## Projets en relation
+
+- [MotionBox](https://omega.gg/MotionBox/sources) - Navigateur Vidéo
+- [MotionMonkey](https://omega.gg/MotionMonkey/fr) - Lecteur Sémantique
+- [tevolution](https://omega.gg/tevolution/fr) - Écran Vidéo Déporté
+
 ## Auteurs
 
 - Benjamin Arnaud alias [bunjee](https://bunjee.me/fr) | <bunjee@omega.gg>

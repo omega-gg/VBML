@@ -1,5 +1,7 @@
 # [VBML](README.md) Ethics
 
+## english / [français](fr/ethics.md)
+
 ## Motion Freedom
 
 Motion Freedom is a set of ethical principles regarding video streaming on the Internet. These core

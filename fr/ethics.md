@@ -1,5 +1,7 @@
 # [VBML](README.md) Éthique
 
+## [english](../ethics.md) / français
+
 ## Liberté Médiatique
 
 La Liberté Médiatique est un ensemble de principes concernant la lecture vidéo sur Internet. Ces
