@@ -9,7 +9,7 @@ pourra être formulée.
 
 ## Lecteur Sémantique
 
-Un Lecteur Sémantique est un lecteur vidéo conçu pour diffuser des vidéos sur Internet à partir de
+Un Lecteur Sémantique est un lecteur vidéo conçu pour diffuser les vidéos d'Internet à partir de
 simples requêtes texte. Il est "sémantique" dans le sens où il supporte les requêtes textes et un
 langagé dédié appellé [VBML](https://github.com/omega-gg/VBML/tree/master/fr). Il accède aussi aux
 contenus de différentes plateformes. Cet outil représente un changement de paradigme du lecteur
