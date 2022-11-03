@@ -8,13 +8,13 @@ La Liberté Médiatique est un ensemble de principes concernant la lecture vidé
 principes fondamentaux sont implémentés dans les outilis logiciels désireux d'innover dans cette
 direction:
 
-- La liberté d'accéder aux ressources vidéo sur Internet
+- La liberté d'accès aux ressources vidéo sur Internet
 - La liberté d'organiser des sources vidéo décentralisées
-- La liberté de partager des contenus vidéo avec le monde entier
+- La liberté de partager les contenus vidéo avec le monde entier
 
-### La liberté d'accéder
+### La liberté d'accès
 
-La liberté d'accéder signifie que l'utilisateur doit être en mesure d'accéder aux ressources vidéo
+La liberté d'accès signifie que l'utilisateur doit être en mesure d'accéder aux ressources vidéo
 sans intermédiaire entre le logiciel client et la donnée. En d'autres termes, chaque octet de la
 ressource doit être accessible directement sur le serveur distant. C'est appliquable aux sources
 vidéo ainsi qu'aux ressources liées comme les métadonnées ou les sous-titres.
