@@ -45,7 +45,7 @@ This language was designed based on practical experience at extracting video res
 Internet. It's meant to be coupled with a client based software that needs to retrieve multiple
 video resources efficiently. It was intially designed with a [Video Browser](https://omega.gg/about/VideoBrowser)
 in mind (like [MotionBox](https://omega.gg/MotionBox)) but it's also used for [MotionMonkey](https://omega.gg/MotionMonkey),
-[clientVBML](https://omega.gg/clientVBML) and it might be useful in other scenarios.
+[tevolution](https://omega.gg/tevolution) and it might be useful in other scenarios.
 
 ## Implementation
 
