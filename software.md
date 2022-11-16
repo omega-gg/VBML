@@ -24,6 +24,8 @@ comprehensive local library. This enables playlist(s) and feed(s) creation and p
 efficient way to organize video tracks. It also comes with additional desktop functionalities like
 video tabs and drag & drop.
 
+## Remote Video Screen
+
 ## Related projects
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser

@@ -27,6 +27,8 @@ supporte la lecture sémantique en y ajoutant une librairie vidéo locale. Ce qu
 constituer des playlist(s) et des feed(s) au travers d'une organisation efficace des pistes vidéo.
 Il comprends également des fonctionnalités "desktop" comme les onglets vidéo et le glisser-déposer.
 
+## Écran Vidéo Déporté
+
 ## Projets en relation
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Navigateur Vidéo
