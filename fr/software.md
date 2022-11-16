@@ -10,10 +10,10 @@ pourra être formulée.
 ## Lecteur Sémantique
 
 Un Lecteur Sémantique est un lecteur vidéo conçu pour diffuser les vidéos d'Internet à partir de
-simples requêtes texte. Il est "sémantique" dans le sens où il supporte les requêtes textes et un
-langagé dédié appellé [VBML](https://github.com/omega-gg/VBML/tree/master/fr). Il accède aussi aux
-contenus de différentes plateformes. Cet outil représente un changement de paradigme du lecteur
-multimédia basé sur des fichiers video vers un lecteur basé sur des requêtes texte. Il est aussi
+requêtes texte. Il est "sémantique" dans le sens où il supporte les requêtes textes et un langagé
+dédié appellé [VBML](https://github.com/omega-gg/VBML/tree/master/fr). Il accède aussi aux contenus
+de différentes plateformes. Cet outil représente un changement de paradigme du lecteur multimédia
+basé sur des fichiers video vers un lecteur basé sur des requêtes texte. Il est aussi
 principalement conçu pour Internet contrairement au parti pris local d'un lecteur multimedia. En
 conséquence, la question n'est plus "*où* est le fichier vidéo" mais "*quel* contenu vidéo"
 voulez-vous accéder. Une transition de la lecture de fichiers vidéo vers une interface basée sur
