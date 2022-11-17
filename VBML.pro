@@ -1,6 +1,7 @@
 OTHER_FILES += README.md \
                software.md \
                ethics.md \
+               VideoTag.md \
                doc/track.md \
                doc/playlist.md \
                doc/index.md \
@@ -12,6 +13,7 @@ OTHER_FILES += README.md \
                fr/README.md \
                fr/software.md \
                fr/ethics.md \
+               fr/VideoTag.md \
                changes/1.0.1.md \
                changes/1.0.2.md \
                changes/1.0.3.md \
