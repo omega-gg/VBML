@@ -30,10 +30,10 @@ Il comprends également des fonctionnalités "desktop" comme les onglets vidéo 
 ## Écran Vidéo Déporté
 
 Un Écran Vidéo Déporté est un Lecteur Sémantique simplifié conçu pour traiter les requêtes de
-diffusion d'un lecteur vidéo distant. Il supporte la lecture sémantique en y associant un serveur
-à l'écoute des connexions en provenance du réseau local. Il n'a pas d'interface utilisateur car il
-est pensé pour être utilisé en tandem avec un autre lecteur vidéo qui fait office de télécommande.
-Il peut s'apparenter à un écran de télévision logiciel. Associé à un Lecteur Sémantique qui agit
+diffusion d'un lecteur distant. Il supporte la lecture sémantique en y associant un serveur à
+l'écoute des connexions entrantes sur le réseau. Il n'a pas d'interface utilisateur car il est
+pensé pour être utilisé en tandem avec un autre lecteur vidéo qui fait office de télécommande. On
+peut l'appréhender comme un écran de télévision logiciel. Associé à un Lecteur Sémantique qui agit
 comme une télécommande, il peut être considéré comme une proposition morderne de télévision.
 
 ## Projets en relation
