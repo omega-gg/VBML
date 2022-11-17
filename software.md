@@ -30,8 +30,8 @@ A Remote Video Screen is a streamlined Semantic Player designed to take streamin
 remote player. It supports the core semantic playback along with a simple server that listens to
 incoming connections on the network. It has no user interface because it's designed to be used in
 conjunction with another player that acts as a remote controller. It can be seen as a software
-television screen. Paired with a semantic remote it can be considered as a modern form of
-television.
+television screen. Paired with a Semantic Player that acts like a remote, it can be considered as a
+modern form of television.
 
 ## Related projects
 
