@@ -11,7 +11,7 @@ un langage de script pour extraire des ressources vidéo plus complexes.
 
 - [Logiciels](software.md)
 - [Éthique](ethics.md)
-- [VideoTag](VideoTag.md)
+- [VidéoTag](VideoTag.md)
 
 ## Scénarios
 
