@@ -2,9 +2,9 @@
 
 ## english / [français](fr/software.md)
 
-This document is a listing of VBML related software. Although, to be fair it's probably the very
-development of these tools that inspired VBML in the first place. These definitions are subject to
-evolve each time we get a clearer understanding of these new tools.
+This document is a listing of the different types of software related to VBML. Although, to be fair
+it's probably the very development of these tools that inspired VBML in the first place. These
+definitions are subject to evolve each time we get a clearer understanding of these new tools.
 
 ## Semantic Player
 

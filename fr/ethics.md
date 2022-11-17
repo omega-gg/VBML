@@ -2,7 +2,7 @@
 
 ## [english](../ethics.md) / français
 
-Ce document est un listing des principes éthiques appliqués au langage VBML et les logiciels
+Ce document est un descriptif des principes éthiques appliqués au langage VBML et les logiciels
 associés.
 
 ## Liberté Médiatique
