@@ -10,7 +10,7 @@ langage est orienté client et dépend entièrement du logiciel qui l'exécute. 
 un langage de script pour extraire des ressources vidéo plus complexes.
 
 - [Logiciels en lien avec le VBML](software.md)
-- [Éthique du VBML](ethics.md)
+- [Principes éthiques du VBML](ethics.md)
 - [VidéoTag](VideoTag.md)
 
 ## Scénarios
