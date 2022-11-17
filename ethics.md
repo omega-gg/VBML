@@ -2,6 +2,9 @@
 
 ## english / [français](fr/ethics.md)
 
+This document is a listing of ethical principles applied to the VBML language and its related
+software.
+
 ## Motion Freedom
 
 Motion Freedom is a set of ethical principles regarding video streaming on the Internet. These core

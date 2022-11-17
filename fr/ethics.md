@@ -2,6 +2,9 @@
 
 ## [english](../ethics.md) / français
 
+Ce document est un listing des principes éthiques appliqués au langage VBML et les logiciels
+associés.
+
 ## Liberté Médiatique
 
 La Liberté Médiatique est un ensemble de principes concernant la lecture vidéo sur Internet. Ces
