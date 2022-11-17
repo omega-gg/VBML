@@ -9,8 +9,8 @@ order to access and organize video resources on the Internet. The langauge is cl
 depends entirely on the software it's running from. It can be extended via a scripting language to
 extract complex video resources.
 
-- [VBML Software](software.md)
-- [VBML Ethics](ethics.md)
+- [Software related to VBML](software.md)
+- [Ethical principles of the VBML](ethics.md)
 - [VideoTag](VideoTag.md)
 
 ## Scenarios

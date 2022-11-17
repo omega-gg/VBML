@@ -9,8 +9,8 @@ propriétés et routines simples afin d'accéder et organiser les ressources vid
 langage est orienté client et dépend entièrement du logiciel qui l'exécute. Il peut être étendu via
 un langage de script pour extraire des ressources vidéo plus complexes.
 
-- [Logiciels VBML](software.md)
-- [Éthique VBML](ethics.md)
+- [Logiciels en lien avec le VBML](software.md)
+- [Éthique du VBML](ethics.md)
 - [VidéoTag](VideoTag.md)
 
 ## Scénarios
