@@ -15,7 +15,7 @@ un langage de script pour extraire des ressources vidéo plus complexes.
 ## Définitions
 
 - [VidéoTag](VideoTag.md)
-- [VidéoHub](VideoHub.md)
+- [Hub vidéo](VideoHub.md)
 
 ## Scénarios
 

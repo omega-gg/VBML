@@ -15,7 +15,7 @@ extract complex video resources.
 ## Definitions
 
 - [VideoTag](VideoTag.md)
-- [VideoHub](VideoHub.md)
+- [Video Hub](VideoHub.md)
 
 ## Scenarios
 

@@ -1,4 +1,4 @@
-# [VBML](README.md) VidéoHub
+# [VBML](README.md) Hub Vidéo
 
 ## [english](../VideoHub.md) / français
 
