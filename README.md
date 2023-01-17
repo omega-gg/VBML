@@ -12,6 +12,7 @@ extract complex video resources.
 - [Software related to VBML](software.md)
 - [Ethical principles of the VBML](ethics.md)
 - [VideoTag](VideoTag.md)
+- [VideoHub](VideoHub.md)
 
 ## Scenarios
 

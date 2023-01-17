@@ -12,6 +12,7 @@ un langage de script pour extraire des ressources vidéo plus complexes.
 - [Logiciels en lien avec le VBML](software.md)
 - [Principes éthiques du VBML](ethics.md)
 - [VidéoTag](VideoTag.md)
+- [VidéoHub](VideoHub.md)
 
 ## Scénarios
 
