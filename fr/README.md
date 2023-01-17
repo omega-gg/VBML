@@ -31,7 +31,7 @@ Vous pouvez faire usage du VBML dans les scénarios suivants:
 - [Backend index](../doc/index.md)
 - [Backend](../doc/backend.md)
 
-## Exemples
+## Éxemples
 
 - [track.vbml](../samples/track.vbml)
 - [live.vbml](../samples/live.vbml)
