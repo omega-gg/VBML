@@ -15,7 +15,10 @@ type: track # or live
 
 ### type: string
 
-The type can be set to `track` or `live` depending if it's a media or a live stream.
+The type can be set to:
+- `track` for a media
+- `live` for a live stream
+- `hub` for a [Video Hub](../VideoHub.md)
 
 ## Optional
 
