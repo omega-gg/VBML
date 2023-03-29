@@ -61,7 +61,7 @@ search: tracks coverVideo
 - Retrieve video tracks from a search engine (like DuckDuckGo)
 - Access videos from a web service (like Youtube)
 - Retrieve video subtitles (like OpenSubtitles)
-- Retrieve video covers (like TMDb)
+- Retrieve video covers (like TMDB)
 
 ## Samples
 
@@ -69,7 +69,7 @@ search: tracks coverVideo
 - [bittorrent.vbml](https://github.com/omega-gg/backend/blob/master/bittorrent.vbml): BitTorrent video retriever
 - [youtube.vbml](https://github.com/omega-gg/backend/blob/master/youtube.vbml): Youtube video retriever
 - [opensubtitles.vbml](https://github.com/omega-gg/backend/blob/master/opensubtitles.vbml): OpenSubtitles subtitles retriever
-- [tmdb.vbml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDb cover retriever
+- [tmdb.vbml](https://github.com/omega-gg/backend/blob/master/tmdb.vbml): TMDB cover retriever
 
 ## Help
 
