@@ -40,6 +40,13 @@ The media source of the track. The track properties will not be updated.
 media: https://www.youtube.com/watch?v=n5vjV4hwRxo
 ```
 
+### related: uri
+
+The related playlist for the track.
+```
+related: https://omega.gg/vox/hubs
+```
+
 ### title: string
 
 The title of the media.
