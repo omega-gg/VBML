@@ -79,8 +79,11 @@ date:  2020-01-10T09:30:00
 
 ## Samples
 
-- [track.vbml](../samples/track.vbml)
-- [live.vbml](../samples/live.vbml)
+- [track.vbml](../samples/track/track.vbml)
+- [live.vbml](../samples/track/live.vbml)
+- [hub.vbml](../samples/track/hub.vbml)
+- [multi.vbml](../samples/track/multi.vbml)
+- [channel.vbml](../samples/track/channel.vbml)
 
 ## Help
 

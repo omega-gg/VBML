@@ -7,10 +7,13 @@ OTHER_FILES += README.md \
                doc/playlist.md \
                doc/index.md \
                doc/backend.md \
-               samples/track.vbml \
-               samples/live.vbml \
-               samples/playlist.vbml \
-               samples/feed.vbml \
+               samples/track/track.vbml \
+               samples/track/live.vbml \
+               samples/track/hub.vbml \
+               samples/track/multi.vbml \
+               samples/track/channel.vbml \
+               samples/playlist/playlist.vbml \
+               samples/playlist/feed.vbml \
                fr/README.md \
                fr/software.md \
                fr/ethics.md \

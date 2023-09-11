@@ -33,8 +33,16 @@ Vous pouvez faire usage du VBML dans les scénarios suivants:
 
 ## Exemples
 
+### Track
+
 - [track.vbml](../samples/track.vbml)
 - [live.vbml](../samples/live.vbml)
+- [hub.vbml](../samples/hub.vbml)
+- [multi.vbml](../samples/multi.vbml)
+- [channel.vbml](../samples/channel.vbml)
+
+### Playlist
+
 - [playlist.vbml](../samples/playlist.vbml)
 - [feed.vbml](../samples/feed.vbml)
 
