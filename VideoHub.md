@@ -2,6 +2,14 @@
 
 ## english / [français](fr/VideoHub.md)
 
+A Video Hub is a video landing page with interactive [VideoTag(s)](VideoTag.md) that enables
+navigation between playlists and video tracks. You could see it as an interactive video "web page"
+or a DVD / Bluray menu designed for Internet videos.
+
+## Samples
+
+- [hub.vbml](../samples/track/hub.vbml)
+
 ## Related projects
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser

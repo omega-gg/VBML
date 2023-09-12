@@ -3,6 +3,7 @@ OTHER_FILES += README.md \
                ethics.md \
                VideoTag.md \
                VideoHub.md \
+               VideoChannel.md \
                doc/track.md \
                doc/playlist.md \
                doc/index.md \
@@ -19,6 +20,7 @@ OTHER_FILES += README.md \
                fr/ethics.md \
                fr/VideoTag.md \
                fr/VideoHub.md \
+               fr/VideoChannel.md \
                changes/1.0.1.md \
                changes/1.0.2.md \
                changes/1.0.3.md \
