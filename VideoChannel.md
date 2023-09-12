@@ -14,6 +14,10 @@ Although The [tevolution client](https://omega.gg/tevolution) refers to the actu
 Video Channel is the video content itself. Effectively mapping an entire week of broadcasting into
 a single VBML text file.
 
+## Samples
+
+- [channel.vbml](../samples/track/channel.vbml)
+
 ## Related projects
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
