@@ -8,7 +8,7 @@ or a DVD / Bluray menu designed for Internet videos.
 
 ## Samples
 
-- [hub.vbml](../samples/track/hub.vbml)
+- [hub.vbml](samples/track/hub.vbml)
 
 ## Related projects
 

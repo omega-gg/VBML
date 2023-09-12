@@ -16,7 +16,7 @@ a single VBML text file.
 
 ## Samples
 
-- [channel.vbml](../samples/track/channel.vbml)
+- [channel.vbml](samples/track/channel.vbml)
 
 ## Related projects
 
