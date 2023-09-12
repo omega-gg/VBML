@@ -36,16 +36,16 @@ Vous pouvez faire usage du VBML dans les scénarios suivants:
 
 ### Track
 
-- [track.vbml](../samples/track.vbml)
-- [live.vbml](../samples/live.vbml)
-- [hub.vbml](../samples/hub.vbml)
-- [multi.vbml](../samples/multi.vbml)
-- [channel.vbml](../samples/channel.vbml)
+- [track.vbml](../samples/track/track.vbml)
+- [live.vbml](../samples/track/live.vbml)
+- [hub.vbml](../samples/track/hub.vbml)
+- [multi.vbml](../samples/track/multi.vbml)
+- [channel.vbml](../samples/track/channel.vbml)
 
 ### Playlist
 
-- [playlist.vbml](../samples/playlist.vbml)
-- [feed.vbml](../samples/feed.vbml)
+- [playlist.vbml](../samples/playlist/playlist.vbml)
+- [feed.vbml](../samples/playlist/feed.vbml)
 
 ## Langage de script
 
