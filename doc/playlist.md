@@ -6,7 +6,7 @@ the Internet.
 ## Template
 
 ```
-# VBML 1.0.0
+# VBML 1.0.4
 
 type: playlist # or feed
 ```
@@ -46,6 +46,16 @@ The list of tracks with the format `source (uri)`.
 ```
 tracks: |
     https://www.youtube.com/watch?v=n5vjV4hwRxo
+    https://www.youtube.com/watch?v=UedTcufyrHc
+```
+
+It's also possible to specify self contained tracks:
+```
+tracks:
+    Track
+        source: https://www.youtube.com/watch?v=n5vjV4hwRxo
+    Track
+        source: https://www.youtube.com/watch?v=UedTcufyrHc
 ```
 
 ## Samples

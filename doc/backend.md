@@ -6,7 +6,7 @@ video resources on the Internet.
 ## Template
 
 ```
-# VBML 1.0.0
+# VBML 1.0.4
 
 type: backend
 ```
