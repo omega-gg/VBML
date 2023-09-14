@@ -101,7 +101,7 @@ The ending point of the track.
 
 This property is superseded by duration.
 
-### timezone: string from this [list](timezone.vbml)
+### timezone: string from this [list](timezone.md)
 
 The time zone of the channel.
 
