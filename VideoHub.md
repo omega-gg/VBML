@@ -3,7 +3,7 @@
 ## english / [français](fr/VideoHub.md)
 
 A Video Hub is a video landing page with interactive [VideoTag(s)](VideoTag.md) that enables
-navigation between playlists and video tracks. You could see it as an interactive video "web page"
+navigation between video tracks and playlists. You could see it as an interactive video "web page"
 or a DVD / Bluray menu designed for Internet videos.
 
 ## Samples
