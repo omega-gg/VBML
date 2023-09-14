@@ -1,6 +1,6 @@
 # [VBML](../README.md) Track
 
-This document is a listing of the available time zones for the track timezone property:
+This document is a listing of the available time zones for the `timezone` property:
 
 - Africa/Abidjan
 - Africa/Accra
