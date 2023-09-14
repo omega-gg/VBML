@@ -23,9 +23,8 @@ The tevolution initiative is both a technological progress and an anthropologica
 
 ## tevolution client
 
-Alternatively, tevolution can refer to the application client of the same name that acts as a
-[Remote Video Screen](https://omega.gg/about/RemoteVideoScreen) and broadcasts VBML content on
-multiple hardware and platforms.
+Alternatively, tevolution can refer to the application client that acts as a [Remote Video Screen](https://omega.gg/about/RemoteVideoScreen)
+and broadcasts VBML content on multiple hardware and platforms.
 
 ## tevolution channel
 
