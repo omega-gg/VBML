@@ -21,7 +21,7 @@ brand new medias that behave like modern television channels, leveraging modern 
 with efficient individual and collective curation. This perspective is aligned with [Motion Freedom](https://omega.gg/about/MotionFreedom)
 ethical principles.
 
-The tevolution initiative wants to be a technological progress serving anthropological progress.
+The tevolution initiative wants to be a technological progress serving an anthropological progress.
 
 ## tevolution client
 
