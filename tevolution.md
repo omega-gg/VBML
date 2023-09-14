@@ -28,7 +28,7 @@ and broadcasts VBML content on multiple hardware and platforms.
 
 ## tevolution channel
 
-Lastly, tevolution can simply refer to a [tevolution channel](https://omega.gg/about/Channel).
+Lastly, tevolution can simply refer to a [tevolution channel](https://omega.gg/about/channel).
 
 ## Related projects
 
