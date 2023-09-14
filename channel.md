@@ -1,6 +1,6 @@
 # [VBML](README.md) tevolution channel
 
-## english / [français](fr/VideoChannel.md)
+## english / [français](fr/channel.md)
 
 A tevolution channel is a VBML based video channel. It's based on a single track of 7 days and
 mapped to a specific timezone. It specifies mulitple sources to be played at different times of the

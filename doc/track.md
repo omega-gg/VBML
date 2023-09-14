@@ -19,7 +19,7 @@ The type can be set to:
 - `track` for a media
 - `live` for a live stream
 - `hub` for a [Video Hub](../VideoHub.md)
-- `channel` for a [Video Channel](../VideoChannel.md)
+- `channel` for a [Video Channel](../channel.md)
 
 ## Optional
 
