@@ -10,7 +10,7 @@ It may contain recorded videos or live streams: anything that a video backend is
 play. It often comes with a default [VideoHub](VideoHub.md) that can be displayed during down times
 and gives access to the attached feeds or playlists.
 
-Although [tevolution](https://omega.gg/tevolution) might refer to the [Remote Video Screen]([https://omega.gg/about/RemoteVideoScreen)
+Although [tevolution](https://omega.gg/tevolution) might refer to the [Remote Video Screen](https://omega.gg/about/RemoteVideoScreen)
 client, a tevolution Channel is the actual video content itself. Effectively mapping an entire week
 of broadcasting into a single VBML text file.
 
