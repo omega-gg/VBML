@@ -4,7 +4,7 @@
 
 ## tevolution initiative
 
-Globally, tevolution refers to an initiative that aims at reinventing television.
+Globally, tevolution refers to an initiative that aims to reinvent television.
 
 From a technical standpoint, it leverages modern software coupled with the Internet to achieve
 direct access to a comprehensive collection of video streams. Through a simple language called
