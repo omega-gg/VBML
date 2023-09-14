@@ -7,7 +7,7 @@ a specific timezone. It specifies mulitple sources to be played at different tim
 the entire week.
 
 It may contain recorded videos or live streams: anything that a video backend is able to parse and
-play. It often comes with a default [Video Hub](VideoHub.md) that can be displayed during down
+access. It often comes with a default [Video Hub](VideoHub.md) that can be displayed during down
 times and gives access to the attached feeds or playlists.
 
 Although [tevolution](https://omega.gg/tevolution) might refer to the [Remote Video Screen](https://omega.gg/about/RemoteVideoScreen)
