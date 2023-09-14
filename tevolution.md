@@ -10,7 +10,7 @@ From a technical standpoint, it leverages modern software coupled with the Inter
 direct access to a comprehensive collection of video streams. Through a simple language called
 VBML it enables the user to agregate and curate content freely into tracks and playlists. Due to
 this semantic approach these informations can be contained in lightweight QR codes called VideoTag
-which allow ideo navigation and sharing on a broad scale.
+which allow video navigation and sharing on a broad scale.
 
 From an ethical perspective, it aims at empowering each and every citizen around the world to
 create their own media from this new medium. From now on, being a program director is a matter of
