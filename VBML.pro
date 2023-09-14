@@ -1,13 +1,15 @@
 OTHER_FILES += README.md \
                software.md \
                ethics.md \
-               VideoTag.md \
+               tevolution.md \
+               channel.md \
                VideoHub.md \
-               VideoChannel.md \
+               VideoTag.md \
                doc/track.md \
                doc/playlist.md \
                doc/index.md \
                doc/backend.md \
+               doc/timezone.md \
                samples/track/track.vbml \
                samples/track/live.vbml \
                samples/track/hub.vbml \
@@ -18,9 +20,10 @@ OTHER_FILES += README.md \
                fr/README.md \
                fr/software.md \
                fr/ethics.md \
-               fr/VideoTag.md \
+               fr/tevolution.md \
+               fr/channel.md \
                fr/VideoHub.md \
-               fr/VideoChannel.md \
+               fr/VideoTag.md \
                changes/1.0.1.md \
                changes/1.0.2.md \
                changes/1.0.3.md \

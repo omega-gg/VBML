@@ -1,6 +1,6 @@
-# [VBML](README.md) Chaine Vidéo
+# [VBML](README.md) tévolution
 
-## [english](../VideoChannel.md) / français
+## [english](../tevolution.md) / français
 
 ## Projets en relation
 

@@ -14,9 +14,10 @@ un langage de script pour extraire des ressources vidéo plus complexes.
 
 ## Définitions
 
-- [VidéoTag](VideoTag.md)
+- [tévolution](tevolution.md)
+- [Chaine tévolution](channel.md)
 - [Hub Vidéo](VideoHub.md)
-- [Chaine Vidéo](VideoChannel.md)
+- [VidéoTag](VideoTag.md)
 
 ## Scénarios
 

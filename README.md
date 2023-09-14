@@ -14,9 +14,10 @@ extract complex video resources.
 
 ## Definitions
 
-- [VideoTag](VideoTag.md)
+- [tevolution](tevolution.md)
+- [tevolution channel](channel.md)
 - [Video Hub](VideoHub.md)
-- [Video Channel](VideoChannel.md)
+- [VideoTag](VideoTag.md)
 
 ## Scenarios
 
