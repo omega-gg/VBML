@@ -1,4 +1,4 @@
-# [VBML](README.md) Chaine tévolution
+# [VBML](README.md) Chaîne tévolution
 
 ## [english](../channel.md) / français
 

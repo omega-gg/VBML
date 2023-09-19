@@ -15,7 +15,7 @@ un langage de script pour extraire des ressources vidéo plus complexes.
 ## Définitions
 
 - [tévolution](tevolution.md)
-- [Chaine tévolution](channel.md)
+- [Chaîne tévolution](channel.md)
 - [Hub Vidéo](VideoHub.md)
 - [VidéoTag](VideoTag.md)
 
