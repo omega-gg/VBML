@@ -2,9 +2,9 @@
 
 ## english / [français](fr/channel.md)
 
-A tevolution channel is a VBML video channel. It's based on a single track of 7 days and mapped to
-a specific timezone. It specifies mulitple sources to be played at different times of the day over
-an entire week time frame.
+A [tevolution](https://omega.gg/about/tevolution) channel is a [VBML](https://omega.gg/VBML) video
+channel. It's based on a single track of 7 days mapped to a specific timezone. It specifies
+mulitple sources to be played at different times of the day over an entire week time frame.
 
 It may contain recorded videos or live streams: anything that a video backend is able to parse and
 access. It often comes with a default [Video Hub](VideoHub.md) that can be displayed during down
