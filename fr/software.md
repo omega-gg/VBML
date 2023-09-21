@@ -21,20 +21,22 @@ le langage.
 
 ## Navigateur Vidéo
 
-Un Navigateur Vidéo est un Lecteur Sémantique complet avec un parti pris pour les ordinateurs de
-bureau et une emphase sur la navigation des pistes vidéo et des fonctionnalités d'édition. Il
-supporte la lecture sémantique en y ajoutant une librairie vidéo locale. Ce qui permet de
-constituer des playlist(s) et des feed(s) au travers d'une organisation efficace des pistes vidéo.
-Il comprends également des fonctionnalités "desktop" comme les onglets vidéo et le glisser-déposer.
+Un Navigateur Vidéo est un [Lecteur Sémantique](https://omega.gg/about/SemanticPlayer/fr) complet
+avec un parti pris pour les ordinateurs de bureau et une emphase sur la navigation des pistes vidéo
+et des fonctionnalités d'édition. Il supporte la lecture sémantique en y ajoutant une librairie
+vidéo locale. Ce qui permet de constituer des playlist(s) et des feed(s) au travers d'une
+organisation efficace des pistes vidéo. Il comprends également des fonctionnalités "desktop" comme
+les onglets vidéo et le glisser-déposer.
 
 ## Écran Vidéo Déporté
 
-Un Écran Vidéo Déporté est un Lecteur Sémantique simplifié conçu pour traiter les requêtes de
-diffusion d'un lecteur distant. Il supporte la lecture sémantique en y associant un serveur à
-l'écoute des connexions entrantes sur le réseau. Il n'a pas d'interface utilisateur car il est
-pensé pour être utilisé en tandem avec un autre lecteur vidéo qui fait office de télécommande. On
-peut l'appréhender comme un écran de télévision logiciel. Associé à un Lecteur Sémantique qui agit
-comme une télécommande, il peut être considéré comme une proposition morderne de télévision.
+Un Écran Vidéo Déporté est un [Lecteur Sémantique](https://omega.gg/about/SemanticPlayer/fr)
+simplifié conçu pour traiter les requêtes de diffusion d'un lecteur distant. Il supporte la lecture
+sémantique en y associant un serveur à l'écoute des connexions entrantes sur le réseau. Il n'a pas
+d'interface utilisateur car il est pensé pour être utilisé en tandem avec un autre lecteur vidéo
+qui fait office de télécommande. On peut l'appréhender comme un écran de télévision logiciel.
+Associé à un Lecteur Sémantique qui agit comme une télécommande il peut être considéré comme une
+proposition morderne de télévision.
 
 ## Projets en relation
 

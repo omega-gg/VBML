@@ -18,20 +18,20 @@ want to play". Essentially moving away from video file input(s) towards language
 
 ## Video Browser
 
-A Video Browser is a comprehensive Semantic Player designed for desktop computers with a focus on
-track browsing and editing functionalities. It supports the core semantic playback together with a
-comprehensive local library. This enables playlist(s) and feed(s) creation and provides an
-efficient way to organize video tracks. It also comes with additional desktop functionalities like
-video tabs and drag & drop.
+A Video Browser is a comprehensive [Semantic Player](https://omega.gg/about/SemanticPlayer)
+designed for desktop computers with a focus on track browsing and editing functionalities. It
+supports the core semantic playback together with a comprehensive local library. This enables
+playlist(s) and feed(s) creation and provides an efficient way to organize video tracks. It also
+comes with additional desktop functionalities like video tabs and drag & drop.
 
 ## Remote Video Screen
 
-A Remote Video Screen is a streamlined Semantic Player designed to take streaming requests from a
-remote player. It supports the core semantic playback along with a simple server that listens to
-incoming connections on the network. It has no user interface because it's designed to be used in
-conjunction with another player that acts as a remote controller. It can be seen as a software
-television screen. Paired with a Semantic Player that acts like a remote, it can be considered as a
-modern form of television.
+A Remote Video Screen is a streamlined [Semantic Player](https://omega.gg/about/SemanticPlayer)
+designed to take streaming requests from a remote player. It supports the core semantic playback
+along with a simple server that listens to incoming connections on the network. It has no user
+interface because it's designed to be used in conjunction with another player that acts as a remote
+controller. It can be seen as a software television screen. Paired with a Semantic Player that acts
+like a remote it can be considered as a modern form of television.
 
 ## Related projects
 
