@@ -6,23 +6,22 @@
 
 Globally, tevolution refers to an initiative that aims to reinvent television.
 
-From a technical standpoint, it leverages modern software coupled with the Internet to achieves
-direct access to a comprehensive collection of video streams. Through a simple language called
-VBML it enables the user to agregate and curate content freely into tracks and playlists. Due to
-this semantic approach these informations can be contained in lightweight QR codes called
-[VideoTags](https://omega.gg/about/VideoTag) which allow video navigation and sharing on a broad
-scale. Lastly it all comes together in the [Semantic Player](https://omega.gg/about/SemanticPlayer):
-a client based software ecosystem that implements state of the art video streaming, VBML and
-VideoTag support.
+From a technical standpoint, it leverages modern software coupled with the Internet to achieve
+direct access to an extensive collection of video streams. Through a simple language called VBML it
+enables the user to agregate and curate content freely into tracks and playlists. Due to this
+semantic approach these informations can be contained in lightweight QR codes called [VideoTags](https://omega.gg/about/VideoTag)
+which allow video navigation and sharing on a broad scale. Lastly it all comes together in the
+[Semantic Player](https://omega.gg/about/SemanticPlayer): a client based software ecosystem that
+implements state of the art video streaming, VBML and VideoTag support.
 
 From an ethical perspective, it aims at empowering each and every citizen around the world to
 create their own media from this new medium. From now on, being a program director is a matter of
 writing a VBML document and updating it accordingly. This considerably lowers the bar to create
 brand new medias that behave like modern television channels, leveraging modern technology coupled
-with efficient individual and collective curation. This perspective is aligned with [Motion Freedom](https://omega.gg/about/MotionFreedom)
-ethical principles.
+with efficient individual and collective curation. This perspective is aligned with the
+[Motion Freedom](https://omega.gg/about/MotionFreedom) ethical principles.
 
-The tevolution initiative wants to be a technological progress that serves an anthropological
+The tevolution initiative wants to be a technological innovation that serves an anthropological
 progress.
 
 ## tevolution client
