@@ -6,9 +6,9 @@ title: Channel
 
 cover: https://raw.githubusercontent.com/omega-gg/vox/master/vox.png
 
-timezone: Europe/Paris
-
 hub: https://omega.gg/vox
+
+timezone: Europe/Paris
 
 # MultiTrack
 source:
