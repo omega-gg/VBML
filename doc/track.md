@@ -61,13 +61,6 @@ The related playlist for the track.
 related: https://omega.gg/vox/hubs
 ```
 
-### hub: string
-
-The hub of the track.
-```
-hub: https://omega.gg/vox/hub
-```
-
 ### title: string
 
 The title of the track.
