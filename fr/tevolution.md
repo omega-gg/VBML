@@ -18,8 +18,8 @@ orienté client qui implémente l'état de l'art de la diffusion vidéo, du VBML
 D'un point de vue éthique, elle vise à donner à chaque citoyen dans le monde les moyens de créer
 ses propres médias à partir d'un nouveau medium. Désormais, devenir directeur des programmes
 revient à écrire un document VBML et à le mettre à jour régulièrement. Ce qui abaisse
-considérablement la barre pour la création de nouveaux médias qui représentent une nouvelle forme
-de télévision. Ceci est rendu possible en tirant parti de la technologie moderne associée à une
+considérablement la barre pour la création de nouveaux médias qui constituent une nouvelle forme de
+télévision. Ceci est rendu possible en tirant parti de la technologie moderne associée à une
 curation individuelle et collective. Cette perspective est alignée avec les principes éthiques
 de la [Liberté Médiatique](https://omega.gg/about/MotionFreedom/fr).
 
