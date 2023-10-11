@@ -4,7 +4,7 @@
 
 Une chaîne [tévolution](https://omega.gg/about/tevolution/fr) est une chaîne vidéo [VBML](https://omega.gg/VBML/fr).
 Elle est basé sur un track unique de 7 jours synchronisé avec un fuseau horaire spécifique. Elle
-spécifie une multitude de sources à lire à différents moments de la journée pendant une semaine
+agrège une multitude de sources à diffuser à différents moments de la journée pendant une semaine
 entière.
 
 Elle peut contenir des vidéos enregistrées ou des flux en direct: tout ce qu'un backend vidéo est
