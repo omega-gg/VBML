@@ -19,7 +19,7 @@ des VideoTags.
 D'un point de vue éthique, elle vise à donner à chaque citoyen du monde les moyens de créer ses
 propres médias à partir d'un nouveau medium. Désormais, devenir directeur des programmes revient à
 écrire un document VBML et à le mettre à jour régulièrement. Ce qui abaisse considérablement la
-barre pour créer de nouveaux médias qui se comportent comme une nouvelle forme de chaînes de
+barre pour créer de nouveaux médias se comportant comme une nouvelle forme de chaînes de
 télévision: en tirant parti de la technologie moderne associée à une curation individuelle et
 collective. Cette perspective est alignée avec les principes de la [Liberté Médiatique](https://omega.gg/about/MotionFreedom/fr).
 
