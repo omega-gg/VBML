@@ -11,7 +11,7 @@ access. It often comes with a default [Video Hub](VideoHub.md) that can be displ
 times and gives access to the attached feeds or playlists.
 
 Although [tevolution](https://omega.gg/tevolution) might refer to the [Remote Video Screen](https://omega.gg/about/RemoteVideoScreen)
-client, a tevolution channel is the actual content itself. Effectively mapping an entire week of
+client, a tevolution channel is the actual content itself: Effectively mapping an entire week of
 broadcasting into a single VBML text file.
 
 ## Samples
