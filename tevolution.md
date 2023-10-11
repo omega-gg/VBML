@@ -7,8 +7,8 @@
 Globally, tevolution refers to an initiative that aims to reinvent television.
 
 From a technical standpoint, it leverages modern software coupled with the Internet to achieve
-direct access to an extensive collection of video streams. Through a simple language called VBML it
-enables the user to agregate and curate content freely into tracks and playlists. Due to this
+direct access to an extensive collection of video streams. Through a simple language called [VBML](https://omega.gg/VBML)
+it enables the user to agregate and curate content freely into tracks and playlists. Due to this
 semantic approach these informations can be contained in lightweight QR codes called [VideoTags](https://omega.gg/about/VideoTag)
 which allow video navigation and sharing on a broad scale. Lastly it all comes together in the
 [Semantic Player](https://omega.gg/about/SemanticPlayer): a client based software and ecosystem
