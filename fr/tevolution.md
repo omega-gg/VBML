@@ -27,8 +27,9 @@ anthropologique.
 
 ## Client tévolution
 
-tévolution peut aussi faire référence au client applicatif qui fait office d'[Écran Vidéo Déporté](https://omega.gg/about/RemoteVideoScreen/fr)
-et diffuse du contenu VBML sur une multitude de plateformes.
+Alternativement, tévolution peut aussi faire référence au client applicatif qui fait office
+d'[Écran Vidéo Déporté](https://omega.gg/about/RemoteVideoScreen/fr) et diffuse du contenu VBML sur
+une multitude de plateformes.
 
 ## Chaîne tévolution
 
