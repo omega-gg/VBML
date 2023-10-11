@@ -10,7 +10,7 @@ D'un point de vue technique, elle s'appuie sur des logiciels modernes couplés �
 obtenir un accès direct à une vaste collection de flux vidéo. Au travers d'un langage simple appelé
 VBML, il permet à l'utilisateur d'agréger et d'organiser librement le contenu sous forme de tracks
 et de playlists. Grâce à cette approche sémantique, ces informations peuvent être contenues dans
-des QR codes légers appelés [VideoTags](https://omega.gg/about/VideoTag/fr), qui permettent la
+des QR codes légers appelés [VideoTags](https://omega.gg/about/VideoTag/fr) qui permettent la
 navigation et le partage de vidéos à grande échelle. Enfin, tout est rendu fonctionnel par le
 [Lecteur Sémantique](https://omega.gg/about/SemanticPlayer/fr): un logiciel orienté client et un
 écosystème qui implémente l'état de l'art de la diffusion vidéo, du VBML et des VideoTags.
