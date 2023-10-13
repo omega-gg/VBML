@@ -18,6 +18,10 @@ broadcasting into a single VBML text file.
 
 - [channel.vbml](samples/track/channel.vbml)
 
+## Related channels
+
+- [vox populi](https://omega.gg/voxPopuli/sources)
+
 ## Related projects
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser

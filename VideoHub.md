@@ -10,6 +10,10 @@ navigation between tracks and playlists. You could see it as an interactive vide
 
 - [hub.vbml](samples/track/hub.vbml)
 
+## Related hubs
+
+- [vox](https://omega.gg/vox/sources)
+
 ## Related projects
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
