@@ -19,7 +19,7 @@ scénarios.
 
 ## Documents
 
-<a href="pictures/VideoTag.png"><img src="pictures/VideoTag.png" alt="VideoTag" width="256px"></a>
+<a href="pictures/VideoTag.png"><img src="pictures/VideoTag.png" alt="VideoTag" width="128px"></a>
 
 ## Auteurs
 

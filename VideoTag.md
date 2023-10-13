@@ -17,7 +17,7 @@ into a single VideoTag. It's also efficient for content sharing in different sce
 
 ## Assets
 
-<a href="pictures/VideoTag.png"><img src="pictures/VideoTag.png" alt="VideoTag" width="256px"></a>
+<a href="pictures/VideoTag.png"><img src="pictures/VideoTag.png" alt="VideoTag" width="128px"></a>
 
 ## Authors
 
