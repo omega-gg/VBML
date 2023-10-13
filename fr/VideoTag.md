@@ -17,6 +17,10 @@ scénarios.
 - [MotionMonkey](https://omega.gg/MotionMonkey/fr) - Lecteur Sémantique
 - [tévolution](https://omega.gg/tevolution/fr) - Écran Vidéo Déporté
 
+## Documents
+
+<a href="pictures/VideoTag.png"><img src="pictures/VideoTag.png" alt="VideoTag" width="256px"></a>
+
 ## Auteurs
 
 - Benjamin Arnaud alias [bunjee](https://bunjee.me/fr) | <bunjee@omega.gg>

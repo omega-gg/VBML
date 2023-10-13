@@ -15,6 +15,10 @@ into a single VideoTag. It's also efficient for content sharing in different sce
 - [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
 - [tevolution](https://omega.gg/tevolution) - Remote Video Screen
 
+## Assets
+
+<a href="pictures/VideoTag.png"><img src="pictures/VideoTag.png" alt="VideoTag" width="256px"></a>
+
 ## Authors
 
 - Benjamin Arnaud aka [bunjee](https://bunjee.me) | <bunjee@omega.gg>
