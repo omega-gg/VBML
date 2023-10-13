@@ -10,6 +10,10 @@ permettant la navigation entre les tracks et les playlists. On pourrait le consi
 
 - [hub.vbml](../samples/track/hub.vbml)
 
+## Hubs en relation
+
+- [vox](https://omega.gg/vox/sources)
+
 ## Projets en relation
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Navigateur Vidéo

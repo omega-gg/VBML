@@ -16,6 +16,14 @@ d'[Écran Vidéo Déporté](https://omega.gg/about/RemoteVideoScreen/fr), une ch
 correspond au contenu en lui-même: définissant une semaine entière de diffusion à partir d'un seul
 fichier texte VBML.
 
+## Exemples
+
+- [channel.vbml](../samples/track/channel.vbml)
+
+## Chaînes en relation
+
+- [vox populi](https://omega.gg/voxPopuli/sources)
+
 ## Projets en relation
 
 - [MotionBox](https://omega.gg/MotionBox/sources) - Navigateur Vidéo
