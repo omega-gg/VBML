@@ -2,7 +2,7 @@
 
 ## [english](../README.md) / français
 
-VBML est un langage de balises orienté client conçu pour accéder directement aux ressources vidéo
+VBML est un langage de balises orienté client conçu pour accéder et agréger les ressources vidéo
 sur Internet. Il est basé sur [BML](https://github.com/omega-gg/BML) et inspiré par [YAML](https://fr.wikipedia.org/wiki/YAML)
 pour garantir sa simplicité et le rendre facilement lisible. L'objectif est de fournir des
 propriétés et routines simples afin d'accéder et organiser les ressources vidéo sur Internet. Le
