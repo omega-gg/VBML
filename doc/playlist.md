@@ -52,9 +52,9 @@ tracks: |
 It's also possible to specify self contained tracks:
 ```
 tracks:
-    Track
+    track:
         source: https://www.youtube.com/watch?v=n5vjV4hwRxo
-    Track
+    track:
         source: https://www.youtube.com/watch?v=UedTcufyrHc
 ```
 

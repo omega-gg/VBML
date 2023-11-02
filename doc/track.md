@@ -37,10 +37,10 @@ source: https://www.youtube.com/watch?v=n5vjV4hwRxo
 It's also possible to specify multiple track sources:
 ```
 source:
-    Track
+    track:
         duration: 1:00
         source: https://www.youtube.com/watch?v=n5vjV4hwRxo
-    Track
+    track:
         duration: 1:00
         source: https://www.youtube.com/watch?v=UedTcufyrHc
 ```
