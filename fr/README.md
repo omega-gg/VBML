@@ -2,12 +2,12 @@
 
 ## [english](../README.md) / français
 
-VBML est un langage de balises orienté client conçu pour accéder et agréger les ressources vidéo
-sur Internet. Il est basé sur [BML](https://github.com/omega-gg/BML) et inspiré par [YAML](https://fr.wikipedia.org/wiki/YAML)
+VBML est un langage de balises orienté client conçu pour définir, agréger et accéder aux ressources
+vidéo sur Internet. Il est basé sur [BML](https://github.com/omega-gg/BML) et inspiré par [YAML](https://fr.wikipedia.org/wiki/YAML)
 pour garantir sa simplicité et le rendre facilement lisible. L'objectif est de fournir des
 propriétés et routines simples afin d'accéder et organiser les ressources vidéo sur Internet. Le
 langage est orienté client et dépend entièrement du logiciel qui l'exécute. Il peut être étendu via
-un langage de script pour extraire des ressources vidéo plus complexes.
+un langage de script pour extraire des ressources vidéo complexes.
 
 - [Logiciels en lien avec le VBML](software.md)
 - [Principes éthiques du VBML](ethics.md)
@@ -59,7 +59,7 @@ simplicité.
 
 Ce langage a été conçu en se basant sur une expérience pratique concernant l'extraction des
 ressources vidéo sur Internet. Il est pensé pour être couplé avec un logiciel orienté client qui
-requiert un accès efficace à une multitude de ressources vidéo. Il a originellement été conçu pour
+nécessite un accès efficace à une multitude de ressources vidéo. Il a originellement été conçu pour
 un [Navigateur Vidéo](https://omega.gg/about/VideoBrowser/fr) (comme [MotionBox](https://omega.gg/MotionBox/fr))
 mais il est également utile pour [MotionMonkey](https://omega.gg/MotionMonkey/fr), [tévolution](https://omega.gg/tevolution/fr)
 et pourrait s'avérer utile dans d'autres scénarios.
