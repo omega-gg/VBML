@@ -6,7 +6,7 @@ Internet.
 ## Template
 
 ```
-# VBML 1.0.4
+# VBML 1.0.5
 
 type: track # or live
 ```
@@ -25,11 +25,11 @@ The type can be set to:
 
 ### origin: uri
 
-The original VBML URI where updates should be pulled from.
+The original URI where updates should be pulled from.
 
 ### source: uri
 
-The source of the track. The track properties will be updated.
+The source of the track.
 ```
 source: https://www.youtube.com/watch?v=n5vjV4hwRxo
 ```

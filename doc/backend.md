@@ -6,7 +6,7 @@ video resources on the Internet.
 ## Template
 
 ```
-# VBML 1.0.4
+# VBML 1.0.5
 
 type: backend
 ```
@@ -43,7 +43,7 @@ validate: ^youtube.com|^youtu.be
 
 ### origin: uri
 
-The original VBML URI where updates should be pulled from.
+The original URI where updates should be pulled from.
 
 ### cover: url
 

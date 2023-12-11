@@ -7,7 +7,7 @@ resources on the Internet.
 ## Template
 
 ```
-# VBML 1.0.4
+# VBML 1.0.5
 
 type: index
 ```
@@ -35,7 +35,7 @@ backends: |
 
 ### origin: uri
 
-The original VBML URI where updates should be pulled from.
+The original URI where updates should be pulled from.
 
 ### covers: list
 

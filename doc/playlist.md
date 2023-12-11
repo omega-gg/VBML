@@ -6,7 +6,7 @@ the Internet.
 ## Template
 
 ```
-# VBML 1.0.4
+# VBML 1.0.5
 
 type: playlist # or feed
 ```
@@ -23,14 +23,7 @@ most recent entry.
 
 ### origin: uri
 
-The original VBML URI where updates should be pulled from.
-
-### source: uri
-
-The source of the playlist. The playlist properties will be updated.
-```
-source: https://www.youtube.com/c/Asthenic
-```
+The original URI where updates should be pulled from.
 
 ### title: string
 
