@@ -1,0 +1,15 @@
+# vbml 1.0.6
+
+type: channel
+
+title: Flash FM (GTA VC) | Vice City Anniversary Edition Playlist
+
+cover: https://i.ytimg.com/vi/iy3zpbeEKlc/hqdefault.jpg
+
+timezone: America/New_York
+
+source:
+    track:
+        type: hub
+        duration: 168:00:00
+        source: https://www.youtube.com/watch?v=iy3zpbeEKlc

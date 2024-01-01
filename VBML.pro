@@ -15,6 +15,7 @@ OTHER_FILES += README.md \
                samples/track/hub.vbml \
                samples/track/multi.vbml \
                samples/track/channel.vbml \
+               samples/track/radio.vbml \
                samples/playlist/playlist.vbml \
                samples/playlist/feed.vbml \
                fr/README.md \
