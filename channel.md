@@ -17,6 +17,7 @@ broadcasting into a single VBML text file.
 ## Samples
 
 - [channel.vbml](samples/track/channel.vbml)
+- [radio.vbml](samples/track/radio.vbml)
 
 ## Related channels
 
