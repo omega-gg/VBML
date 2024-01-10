@@ -39,6 +39,7 @@ You can use VBML in the following scenarios:
 ### Track
 
 - [track.vbml](samples/track/track.vbml)
+- [slice.vbml](samples/track/slice.vbml)
 - [live.vbml](samples/track/live.vbml)
 - [hub.vbml](samples/track/hub.vbml)
 - [multi.vbml](samples/track/multi.vbml)

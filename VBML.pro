@@ -11,6 +11,7 @@ OTHER_FILES += README.md \
                doc/backend.md \
                doc/timezone.md \
                samples/track/track.vbml \
+               samples/track/slice.vbml \
                samples/track/live.vbml \
                samples/track/hub.vbml \
                samples/track/multi.vbml \
