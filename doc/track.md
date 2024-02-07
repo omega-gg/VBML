@@ -6,7 +6,7 @@ Internet.
 ## Template
 
 ```
-# VBML 1.0.5
+# VBML 1.0.6
 
 type: track # or live
 ```
