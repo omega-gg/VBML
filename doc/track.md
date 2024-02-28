@@ -20,6 +20,7 @@ The type can be set to:
 - `live` for a live stream
 - `hub` for a [Video Hub](../VideoHub.md)
 - `channel` for a [Video Channel](../channel.md)
+- `interactive` for an interactive video
 
 ## Optional
 
@@ -104,7 +105,47 @@ This property is specific to the channel type.
 
 The publication date of the track.
 ```
-date:  2020-01-10T09:30:00
+date: 2020-01-10T09:30:00
+```
+
+### ambient: string
+
+The external audio track to be looped in the background.
+
+### subtitles: list
+
+The specific subtitles of the track.
+```
+subtitles: |
+    https://omega.gg/sub-eng.srt
+    https://omega.gg/sub-fr.srt
+```
+
+### id: string
+
+The id of the track.
+
+This property is limited to 10 characters.
+
+This property is specific to the interactive type.
+
+### context: list
+
+The default context of the track.
+
+This property is specific to the interactive type.
+
+### tags: list
+
+The tags of the track.
+
+Each tag is limited to 10 characters.
+
+This property is specific to the interactive type.
+```
+tags: |
+    tagA
+    tagB
 ```
 
 ## Samples
