@@ -114,7 +114,7 @@ The external audio track to be looped in the background.
 
 ### subtitles: list
 
-The specific subtitles of the track.
+The specific subtitles for the track.
 ```
 subtitles: |
     https://omega.gg/sub-eng.srt
@@ -137,7 +137,7 @@ This property is specific to the interactive type.
 
 ### tags: list
 
-The tags of the track.
+The available tags for the track.
 
 Each entry is limited to 10 characters.
 
