@@ -139,7 +139,7 @@ This property is specific to the interactive type.
 
 The tags of the track.
 
-Each tag is limited to 10 characters.
+Each entry is limited to 10 characters.
 
 This property is specific to the interactive type.
 ```
