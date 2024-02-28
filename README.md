@@ -7,8 +7,8 @@ It's a client based markup language designed to define, aggregate and access vid
 Internet. It's based on [BML](https://github.com/omega-gg/BML) and inspired by [YAML](https://en.wikipedia.org/wiki/YAML)
 to keep things simple and human readable. The goal is to provide simple properties and routines in
 order to access and organize video resources on the Internet. The language is client based and
-depends entirely on the software it's running from. It can be extended via a scripting language to
-extract complex video resources.
+depends entirely on the software it's running from. It comes with simple scripting functionalities
+to define complex video resources.
 
 - [Software related to VBML](software.md)
 - [Ethical principles of the VBML](ethics.md)
