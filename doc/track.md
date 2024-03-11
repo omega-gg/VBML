@@ -28,7 +28,7 @@ The type can be set to:
 
 The original URI where updates should be pulled from.
 
-### source: uri
+### source: uri or tracks
 
 The source of the track.
 ```
@@ -123,11 +123,47 @@ subtitles: |
 
 ### id: string
 
-The id of the track.
+The id of the track. It's useful to identify a track inside a track list.
 
 This property is limited to 10 characters.
 
-This property is specific to the interactive type.
+This property is specific to a track inside a multi-track source or a template item.
+
+```
+source:
+    track:
+        id: track
+```
+
+```
+templates:
+    template:
+        id: template
+```
+
+### templates: list
+
+A list of track templates to avoid redundancy in the multi-track declaration.
+
+A template supports the following properties: source (single uri) and ambient.
+
+This property is specific to a multi-track source.
+
+```
+templates:
+    template:
+        id: templateA
+        source: https://www.youtube.com/watch?v=n5vjV4hwRxo
+    template:
+        id: templateB
+        source: https://www.youtube.com/watch?v=UedTcufyrHc
+```
+
+### template: string
+
+The template id containing base properties for the current track.
+
+This property is specific to a track inside a multi-track source.
 
 ### context: list
 
