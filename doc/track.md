@@ -8,7 +8,7 @@ Internet.
 ```
 # VBML 1.0.6
 
-type: track # or live
+type: track
 ```
 
 ## Properties

@@ -8,7 +8,7 @@ the Internet.
 ```
 # VBML 1.0.6
 
-type: playlist # or feed
+type: playlist
 ```
 
 ## Properties
