@@ -2,7 +2,7 @@
 
 ## english / [français](fr/README.md)
 
-VBML is the first declarative video language built for a [Semantic Player](https://omega.gg/about/SemanticPlayer).
+VBML is the first declarative video language designed for a [Semantic Player](https://omega.gg/about/SemanticPlayer).
 It's a client based markup language designed to define, aggregate and access video resources on the
 Internet. It's based on [BML](https://github.com/omega-gg/BML) and inspired by [YAML](https://en.wikipedia.org/wiki/YAML)
 to keep things simple and human readable. The goal is to provide simple properties and routines in
