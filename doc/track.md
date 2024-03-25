@@ -193,6 +193,7 @@ tags: |
 - [multi.vbml](../samples/track/multi.vbml)
 - [channel.vbml](../samples/track/channel.vbml)
 - [radio.vbml](../samples/track/radio.vbml)
+- [interactive.vbml](../samples/track/interactive.vbml)
 
 ## Help
 

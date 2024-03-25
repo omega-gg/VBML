@@ -1,0 +1,53 @@
+# vbml 1.0.6
+
+type: interactive
+
+title: Patrol interactive
+
+cover: https://raw.githubusercontent.com/3unjee/VBML/master/track/paw/paw.jpg
+
+context: paw,paw1
+
+source:
+    track:
+        id: paw
+        at: 0:00
+        end: 0:04
+        template: paw
+    hub:
+        id: paw1
+        at: 0:05
+        end: 0:21
+        ambient: https://www.youtube.com/watch?v=BmpuIiC9Q5A
+        template: paw
+    track:
+        id: paw2
+        at: 0:21
+        end: 1:19
+        template: paw
+    track:
+        id: paw3
+        at: 1:19
+        end: 1:29
+        template: paw
+    track:
+        id: paw4
+        at: 1:29
+        end: 2:03
+        template: paw
+
+templates:
+    template:
+        id: paw
+        source: https://odysee.com/paw:3
+
+DOG: |
+    IF (EQUAL argument '1')
+        RETURN "paw2,paw1"
+    ELIF (EQUAL argument '2')
+        RETURN "paw3,paw1"
+    ELIF (EQUAL argument '3')
+        RETURN "paw4,paw1"
+    ELSE
+        RETURN
+    FI

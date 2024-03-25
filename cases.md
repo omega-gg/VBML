@@ -9,9 +9,9 @@
 - Multi-track: [multi.vbml](samples/track/multi.vbml)
 - Video hub: [hub.vbml](samples/track/hub.vbml)
 - Channel track: [channel.vbml](samples/track/channel.vbml)
-- Interactive track: [track.vbml](samples/track/track.vbml)
-- Lite track: https://vox.omega.gg/w/w6SGemekEZS79cJD2qeqCM
 - Radio: [radio.vbml](samples/track/radio.vbml)
+- Interactive track: [interactive.vbml](samples/track/interactive.vbml)
+- Lite track: https://vox.omega.gg/w/w6SGemekEZS79cJD2qeqCM
 - Track gateway that redirects to a longer video (for non specific VBML platforms)
 
 ## Playlist
