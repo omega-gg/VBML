@@ -16,7 +16,7 @@
 
 ## Playlist
 
-- Custom playlist: [radio.vbml](samples/playlist/playlist.vbml)
+- Custom playlist: [playlist.vbml](samples/playlist/playlist.vbml)
 - Custom feed: [feed.vbml](samples/playlist/feed.vbml)
 
 ## Related projects
