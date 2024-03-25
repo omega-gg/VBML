@@ -1,4 +1,4 @@
-# [VBML](README.md) use cases
+# [VBML](README.md) Use cases
 
 ## english / [français](fr/cases.md)
 
