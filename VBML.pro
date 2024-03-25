@@ -1,6 +1,7 @@
 OTHER_FILES += README.md \
                software.md \
                ethics.md \
+               cases.md \
                tevolution.md \
                channel.md \
                VideoHub.md \
@@ -22,6 +23,7 @@ OTHER_FILES += README.md \
                fr/README.md \
                fr/software.md \
                fr/ethics.md \
+               fr/cases.md \
                fr/tevolution.md \
                fr/channel.md \
                fr/VideoHub.md \

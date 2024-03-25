@@ -12,6 +12,7 @@ fonctionnalités de script basiques pour définir des ressources vidéo complexe
 
 - [Logiciels en lien avec le VBML](software.md)
 - [Principes éthiques du VBML](ethics.md)
+- [Cas d'usages du VBML](cases.md)
 
 ## Définitions
 

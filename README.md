@@ -12,6 +12,7 @@ to define complex video resources.
 
 - [Software related to VBML](software.md)
 - [Ethical principles of the VBML](ethics.md)
+- [VBML use cases](cases.md)
 
 ## Definitions
 
