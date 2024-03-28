@@ -48,6 +48,4 @@ DOG: |
         RETURN "paw3,paw1"
     ELIF (EQUAL argument '3')
         RETURN "paw4,paw1"
-    ELSE
-        RETURN
     FI
