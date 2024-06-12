@@ -95,6 +95,12 @@ The ending point of the track.
 
 This property is superseded by duration.
 
+### shuffle: seed integer
+
+This property shuffles the sources based on a fixed seed.
+
+This property is specific to a multi-track source.
+
 ### timezone: string from this [list](timezone.md)
 
 The time zone of the channel.
