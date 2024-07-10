@@ -95,7 +95,7 @@ The ending point of the track.
 
 This property is superseded by duration.
 
-### shuffle: seed integer
+### seed: integer
 
 This property shuffles the sources based on a fixed seed.
 
