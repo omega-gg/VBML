@@ -65,7 +65,8 @@ This language was designed based on practical experience at extracting video res
 Internet. It's meant to be coupled with a client based software that needs to retrieve multiple
 video resources efficiently. It was intially designed with a [Video Browser](https://omega.gg/about/VideoBrowser)
 in mind (like [MotionBox](https://omega.gg/MotionBox)) but it's also used for [MotionMonkey](https://omega.gg/MotionMonkey),
-[tevolution](https://omega.gg/tevolution) and it might be useful in other scenarios.
+[tevolution](https://omega.gg/tevolution), [tevo](https://omega.gg/tevo) and it might be useful in
+other scenarios.
 
 ## Implementation
 
@@ -84,6 +85,7 @@ a look at the following sources for implementation details:
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
 - [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
 - [tevolution](https://omega.gg/tevolution) - Remote Video Screen
+- [tevo](https://omega.gg/tevo) - Command line Semantic Player
 
 ## Authors
 
