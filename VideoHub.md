@@ -19,6 +19,7 @@ navigation between tracks and playlists. You could see it as an interactive vide
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
 - [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
 - [tevolution](https://omega.gg/tevolution) - Remote Video Screen
+- [tevo](https://omega.gg/tevo) - Command line Semantic Player
 
 ## Authors
 

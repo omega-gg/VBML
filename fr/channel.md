@@ -30,6 +30,7 @@ fichier texte VBML.
 - [MotionBox](https://omega.gg/MotionBox/sources) - Navigateur Vidéo
 - [MotionMonkey](https://omega.gg/MotionMonkey/fr) - Lecteur Sémantique
 - [tévolution](https://omega.gg/tevolution/fr) - Écran Vidéo Déporté
+- [tevo](https://omega.gg/tevo/fr) - Lecteur Sémantique en ligne de commande
 
 ## Auteurs
 

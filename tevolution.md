@@ -38,6 +38,7 @@ Lastly, tevolution can simply refer to a [tevolution channel](https://omega.gg/a
 - [MotionBox](https://omega.gg/MotionBox/sources) - Video Browser
 - [MotionMonkey](https://omega.gg/MotionMonkey) - Semantic Player
 - [tevolution](https://omega.gg/tevolution) - Remote Video Screen
+- [tevo](https://omega.gg/tevo) - Command line Semantic Player
 
 ## Assets
 
