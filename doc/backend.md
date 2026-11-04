@@ -56,6 +56,10 @@ The search capabilities of the backend, can be `tracks`, `coverAudio` and `cover
 search: tracks coverVideo
 ```
 
+## Scripts
+
+The functions you can use in the backend scripts are listed in the [API](api.md).
+
 ## Scenarios
 
 - Retrieve video tracks from a search engine (like DuckDuckGo)

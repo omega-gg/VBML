@@ -34,6 +34,7 @@ Vous pouvez faire usage du VBML dans les scénarios suivants:
 
 - [Backend index](../doc/index.md)
 - [Backend](../doc/backend.md)
+- [API](../doc/api.md)
 
 ## Exemples
 
