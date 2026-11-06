@@ -28,13 +28,6 @@ The type can be set to:
 
 The original URI where updates should be pulled from.
 
-A track plays its source first and its origin when the source does not resolve.
-```
-origin: https://www.youtube.com/watch?v=n5vjV4hwRxo
-
-source: video.mp4
-```
-
 ### source: uri or tracks
 
 The source of the track.
